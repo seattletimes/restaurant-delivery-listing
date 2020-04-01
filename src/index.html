@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <%= t.include("partials/_head.html", grunt.data.json) %>
+    <% if (json.project.production && !json.project.embedded) { %>
+      <%= t.include("partials/_dataLayer.html") %>
+      <%= t.include("partials/_gtm.html") %>
+    <% } %>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+  
+
+    <% if (json.project.production && !json.project.embedded) { %>
+      <%= t.include("partials/_gtmNoScript.html") %>
+    <% } %>
+    <responsive-child>
+    <main>
+
+    <%
+var categories = {};
+var neighborhood = {};
+json.Ready.forEach(function(row) {
+  neighborhood[row.Neighborhood.trim()] = true;
+  var categoryList = row.Neighborhood.trim().split(";");
+  categoryList.forEach(g => categories[g] = true);
+});
+
+neighborhood = Object.keys(neighborhood);
+
+
+    %>
+      <nav class="filters">
+          <h3>Filter restaurants</h3>
+          <select class="neighborhood-filter" >
+            <option value="">CHOOSE A NEIGHBORHOOD</option>
+            <% neighborhood.forEach(function(d) { %>
+            
+              <option  name="neighborhood-filter" value="<%= d %>"><%= d %></option>
+
+            <% }) %>
+            </select>
+          
+
+
+          </nav>
+
+      <ul  class="listings">
+     <% json.Ready.forEach(function(row) { %>
+      <p data-neighborhood="<%= row.Neighborhood.trim() %>"><strong style="font-size:1.5em"><a href="http://www.<%= row.Website %>" target="_blank"><%= row.Name %> </a></strong> <i><%= row.Offer %></i><br><%= row.Address %> <a href="tel:<%= row.Phone %>"><%= row.Phone %></a> </p>
+    <% }) %>
+    </ul>
+
+      </main>
+    </responsive-child>
+
+    <script src="app.js" async></script>
+    <% if (json.project.production) { %>
+    <%= !json.project.embedded ? t.include("partials/_analytics.html") : "" %>
+    <%= t.include("partials/_workHere.html") %>
+    <% } %>
+  </body>
+</html>

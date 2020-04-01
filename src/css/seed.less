@@ -1,0 +1,159 @@
+@import "seattletimes";
+
+
+
+nav.filters {
+  text-align: center;
+
+  h3 {
+    font-size: 14px;
+    margin: 20px 0 10px;
+    color: @df-dark-gray;
+    text-transform: uppercase;
+  }
+
+  ul {
+    display: block;
+    padding: 0;
+    margin: 0 0 16px;
+    list-style-type: none;
+
+    @media @mobile {
+      .display-flex();
+      .flex-wrap(wrap);
+    }
+  }
+
+  li {
+    display: inline-block;
+    @media @mobile {
+      .display-flex();
+      .align-items(stretch);
+      .flex(0 0 50%);
+    }
+  }
+
+  input {
+    clip-path: inset(100%);
+    position: absolute;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+  }
+
+  label {
+    padding: 2px 4px;
+    margin: 2px 4px 8px;
+    background: @df-off-white;
+    border: 1px solid @df-light-gray;
+    color: @df-middle-gray;
+    border-radius: 2px;
+    display: block;
+    .flex(1);
+
+    @media @mobile {
+      font-size: 14px;
+    }
+
+    &::before {
+      content: "○ ";
+      @media @mobile {
+        display: none;
+      }
+    }
+  }
+
+  input:checked + label {
+    color: black;
+    border-color: @df-middle-gray;
+
+    &::before {
+      content: "✔ ";
+    }
+  }
+}
+
+.listings {
+  font-size: 16px;
+  border-collapse: collapse;
+  
+
+  p {
+    padding: 4px 8px;
+
+    &::before {
+      color: @df-middle-gray;
+      text-transform: uppercase;
+    }
+
+    @media @mobile {
+      padding: 0;
+    }
+  }
+
+  p {
+    &.hidden {
+      display: none;
+    }
+
+    
+  }
+
+  .venue-details {
+    a {
+      display: block;
+    }
+  }
+
+  .date {
+    // font-weight: bold;
+
+    .day {
+      display: block;
+      font-weight: bold;
+      white-space: nowrap;
+    }
+  }
+
+
+  @media @mobile {
+    display: block;
+
+    tr {
+      display: block;
+      padding: 16px 0;
+      border-top: 1px solid @df-light-gray;
+    }
+
+    td, th {
+      display: block;
+    }
+
+    thead {
+      display: none;
+    }
+
+    .date {
+      font-size: 15px;
+
+      .day {
+        font-weight: normal;
+        display: inline;
+
+        &::after {
+          content: ",";
+          font-weight: normal;
+        }
+      }
+    }
+
+    .artist {
+      font-size: 19px;
+      font-weight: bold;
+    }
+
+    .genre {
+      text-transform: uppercase;
+      font-style: italic;
+    }
+  }
+}

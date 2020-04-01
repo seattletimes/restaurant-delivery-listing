@@ -1,0 +1,22 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "faintly-whimsical"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "/2020/food-drink/seattle-restaurants-offering-takeout-delivery"
+    }
+  },
+  "title": "Seattle-area restaurants offering takeout or delivery",
+  "description": "",
+  "author": "",
+  "url": "https://projects.seattletimes.com/2020/food-drink/seattle-restaurants-offering-takeout-delivery",
+  "post_id": 0,
+  "image": "assets/social.jpg",
+  "sheets": ["1zN-EXXuaouW2iesEBhn30YbMkX7dqS7x_4dMj8hPLZY"],
+  "docs": [],
+  "embedded": true,
+  "production": true
+}
