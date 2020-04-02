@@ -45,6 +45,15 @@ module.exports = function(grunt) {
 
   grunt.registerTask("build", "Processes index.html using shared data (if available)", function() {
     var files = grunt.file.expandMapping(["**/*.html", "!**/_*.html", "!js/**/*.html"], "build", { cwd: "src" });
+   
+   //create the Nightlife XML file with a correct numeric suffix
+    var today = new Date().getDate();
+    files.push({
+      src: [ "src/restaurant-delivery-listings.xml" ],
+      dest: "build/restaurant-delivery-listings" + today + ".xml"
+    });
+
+
     var data = Object.create(grunt.data || {});
     data.t = grunt.template;
     files.forEach(function(file) {

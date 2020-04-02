@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE doc SYSTEM "/SysConfig/Rules/ST.dtd">
+<?EM-dtdExt /SysConfig/Rules/ST.dtx?>
+<?EM-templateName /SysConfig/Times/Offpage/Templates/story.xml?>
+<?xml-stylesheet type="text/css" href="/SysConfig/Rules/Styles/channelNone.css"?>
+<?xml-stylesheet type="text/css" href="/SysConfig/Times/Offpage/Styles/base_tables.css"?>
+<?xml-stylesheet type="text/css" href="#U5033803952DWG"?>
+<doc xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:lang="en-us"><story><grouphead><headline><p>HEADLINE</p>
+</headline>
+</grouphead>
+<label channel="Print"><p>restaurant listings</p>
+</label>
+<text id="123456789"><byline><p>By <name>Yasmeen Wafai</name>
+</p>
+<p id="U5033803952QL"><description>Seattle Times news assistant</description>
+</p>
+</byline>
+<p></p>
+<p><italic>Dates and times are subject to change. Call ahead to confirm.</italic>
+</p>
+<%
+
+var stories = {};
+json.Ready.forEach(function(row) {
+  var category = row.Neighborhood.trim();
+  var rank = row.Neighborhood.indexOf();
+  if (!stories[category]) stories[category] = {};
+  if (!stories[category][rank]) stories[category][rank] = [];
+  stories[category][rank].push(row);
+});
+
+
+%>
+
+<% 
+for (var d in stories) { 
+var category = stories[d];
+
+%>
+
+<%
+for (var g in category) { 
+var day = category[g];
+%>
+
+<% 
+var daySort =  day.sort();
+
+%>
+
+<subhead class="listhead" channel="!"><p><%= d %></p></subhead>
+<% daySort.forEach(function(row) { %>
+
+<p><leadin><%= row.Name %></leadin> <%= row.Address %>; <%= row.Phone %> (<%= row.Offer %>)</p>
+<% }); %>
+
+<%
+}
+}
+
+%>
+
+
+<tagline><p id="U5033803952R7">Yasmeen Wafai: 206-464-2757 or ywafai@seattletimes.com; on Twitter: @Yasmeen_Wafai.</p>
+</tagline>
+</text>
+</story>
+</doc>
