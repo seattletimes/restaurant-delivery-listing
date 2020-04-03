@@ -5,7 +5,7 @@
     "Neighborhood": "Other",
     "Phone": "",
     "Website": "ddir.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Barking Dog Alehouse",
@@ -13,7 +13,7 @@
     "Neighborhood": "Whittier",
     "Phone": "206-782-2974",
     "Website": "www.barkingdogalehouse,com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Ghostfish Brewery",
@@ -21,7 +21,7 @@
     "Neighborhood": "SoDo",
     "Phone": "206-397-3898",
     "Website": "https://ghostfishbrewing.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Kelnero",
@@ -29,7 +29,7 @@
     "Neighborhood": "Edmonds",
     "Phone": "425-967-5687",
     "Website": "kelnero.bar",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Northlake Tavern & Pizza",
@@ -37,7 +37,7 @@
     "Neighborhood": "U Discrict",
     "Phone": 2066335317,
     "Website": "http://northlaketavern.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Redmond's Bar & Grill",
@@ -45,7 +45,7 @@
     "Neighborhood": "Downtown Redmond",
     "Phone": "425-558-9800",
     "Website": "Www.redmondsgrill.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Wildwood Market",
@@ -53,7 +53,7 @@
     "Neighborhood": "West Seattle",
     "Phone": "206-257-1196",
     "Website": "Www.wildwoodmarket.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Roadhouse Restaurant and Inn (Fall City)",
@@ -61,7 +61,7 @@
     "Neighborhood": "Fall City, WA 98024",
     "Phone": "425.222-4800",
     "Website": "www.fcroadhouse.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "5 Spot",
@@ -69,7 +69,7 @@
     "Neighborhood": "Queen Anne",
     "Phone": "206-285-7768",
     "Website": "https://www.chowfoods.com/5-spot",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Domani",
@@ -77,7 +77,7 @@
     "Neighborhood": "Queen Anne",
     "Phone": "206-812-2222",
     "Website": "https://www.domaniqueenanne.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Bamboo Garden",
@@ -85,7 +85,7 @@
     "Neighborhood": "Queen Anne",
     "Phone": "(206) 282-6616",
     "Website": "http://www.bamboo-garden.co",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Itto’s Tapas",
@@ -93,7 +93,7 @@
     "Neighborhood": "West Seattle",
     "Phone": 2065049510,
     "Website": "www.ittostspas.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Kung Pang Noodle Place",
@@ -101,7 +101,7 @@
     "Neighborhood": "Queen Anne",
     "Phone": "(206) 285-4656",
     "Website": "https://www.pungkangnoodle.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Ying Thai Kitchen",
@@ -109,7 +109,7 @@
     "Neighborhood": "Queen Anne",
     "Phone": "(206) 350-3523",
     "Website": "http://yingthaikitchen.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "University place Dairy Queen",
@@ -117,7 +117,7 @@
     "Neighborhood": "University Place",
     "Phone": "253-565-1005",
     "Website": "Www.dairyqueen.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Anthony's Beach Cafe",
@@ -125,7 +125,7 @@
     "Neighborhood": "Edmonds",
     "Phone": "(425) 771-4400",
     "Website": "https://www.anthonys.com/restaurants/detail/anthonys-beach-cafe/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Australian Pie Co",
@@ -133,7 +133,7 @@
     "Neighborhood": "Burien",
     "Phone": 2062434138,
     "Website": "www.australianpieco.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Fortuna 2.0 restaurant",
@@ -141,7 +141,7 @@
     "Neighborhood": "Chinatown international district",
     "Phone": 2064857477,
     "Website": "Www.fortunacafe2.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Burger Addict",
@@ -149,7 +149,7 @@
     "Neighborhood": "Renton-Maple Valley Hwy",
     "Phone": 4259703950,
     "Website": "https://burgeraddict.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Corner Bakery Cafe",
@@ -157,7 +157,7 @@
     "Neighborhood": "Tukwila",
     "Phone": 2066732955,
     "Website": "www.cornerbakerycafe.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Thaiger Room",
@@ -165,7 +165,7 @@
     "Neighborhood": "U District",
     "Phone": "206-632-9299",
     "Website": "Thaigerroom.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Teasome",
@@ -173,7 +173,7 @@
     "Neighborhood": "Phinney Ridge/Greenwood",
     "Phone": 2069132961,
     "Website": "teasomerestaurant.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Le Messe",
@@ -181,7 +181,7 @@
     "Neighborhood": "Eastlake",
     "Phone": "(206) 402-6106",
     "Website": "https://www.lemesseseattle.com/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Raccolto",
@@ -189,7 +189,7 @@
     "Neighborhood": "West Seattle",
     "Phone": "(206) 397-3775",
     "Website": "www.raccoltoseattle.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Haymaker",
@@ -197,7 +197,7 @@
     "Neighborhood": "West Seattle",
     "Phone": "(206) 946-6994",
     "Website": "www.haymakerseattle.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Vendemmia",
@@ -205,7 +205,7 @@
     "Neighborhood": "Madrona",
     "Phone": "(206) 466-2533",
     "Website": "vendemmiaseattle.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Ooba Tooba Mexican Grill",
@@ -213,7 +213,7 @@
     "Neighborhood": "Redmond",
     "Phone": "(425) 702-1694",
     "Website": "www.oobatooba.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Seattle’s Pier 57 Miners Landing",
@@ -221,7 +221,7 @@
     "Neighborhood": "Downtown/Waterfront",
     "Phone": "(206) 838-5313",
     "Website": "https://www.facebook.com/minerslandingpier57/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Wing Dome",
@@ -229,7 +229,7 @@
     "Neighborhood": "Greenwood (also Kirkland & Pier 56)",
     "Phone": "206-706-4036; 425-822-9464; 206-623-2066",
     "Website": "thewingdome.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Oak",
@@ -237,7 +237,7 @@
     "Neighborhood": "Beacon Hill",
     "Phone": "(206)-535-7070",
     "Website": "https://oak-seattle.com/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Sazon Kitchen",
@@ -245,7 +245,7 @@
     "Neighborhood": "Ballard",
     "Phone": "(206) 717-2827",
     "Website": "https://spark.adobe.com/page/fA6c9GFhgTJc3/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Itto’s Tapas",
@@ -253,7 +253,7 @@
     "Neighborhood": "West Seattle",
     "Phone": 2065049510,
     "Website": "www.ittostspas.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Pho ha",
@@ -261,7 +261,7 @@
     "Neighborhood": "Georgetown",
     "Phone": 2067639828,
     "Website": "UberEats.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Pioneer Square D&E",
@@ -269,7 +269,7 @@
     "Neighborhood": "Pioneer Square",
     "Phone": "206-445-7472",
     "Website": "www.pioneersquarede.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "5 Hooks Fish Grill",
@@ -277,7 +277,7 @@
     "Neighborhood": "Queen Anne",
     "Phone": "(206) 403-1263",
     "Website": "http://fivehooksfishgrill.com/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Norm's Eatery and Alehouse",
@@ -285,7 +285,7 @@
     "Neighborhood": "Fremont",
     "Phone": "206-547-1417",
     "Website": "https://www.normseatery.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Roxy's Diner",
@@ -293,7 +293,7 @@
     "Neighborhood": "Fremont",
     "Phone": "206-547-1417",
     "Website": "pastramisandwich.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Pete's Fremont Firepit",
@@ -301,7 +301,7 @@
     "Neighborhood": "Fremont",
     "Phone": "206-547-1417",
     "Website": "https://www.pastramisandwich.com/petes-fremont-fire-pit",
-    "Offer": "Delivery"
+    "Offer": "delivery"
   },
   {
     "Name": "Let's Taco",
@@ -309,7 +309,7 @@
     "Neighborhood": "Fremont",
     "Phone": "206-547-1417",
     "Website": "https://www.pastramisandwich.com/lets-taco",
-    "Offer": "Delivery"
+    "Offer": "delivery"
   },
   {
     "Name": "La Rustica",
@@ -317,7 +317,7 @@
     "Neighborhood": "West Seattle",
     "Phone": "(206) 932-3020",
     "Website": "https://m.facebook.com/pages/category/Italian-Restaurant/La-Rustica-Restaurant-352518438143496/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Asia Bar-B-Que",
@@ -325,7 +325,7 @@
     "Neighborhood": "Chinatown",
     "Phone": "(206) 624-2275",
     "Website": "https://menupages.com/asia-bar-b-que/655-s-jackson-st-seattle/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Twilight Exit",
@@ -333,7 +333,7 @@
     "Neighborhood": "Central District",
     "Phone": "206-324-7462",
     "Website": "https://www.facebook.com/Twilight-Exit-133599351440/menu/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Salmon Creek Cafe",
@@ -341,7 +341,7 @@
     "Neighborhood": "West Seattle-Burien",
     "Phone": "206 244 4303",
     "Website": "http://www.salmoncreekcafe.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Maximilien",
@@ -349,7 +349,7 @@
     "Neighborhood": "Downtown-Pike Market",
     "Phone": 2066827270,
     "Website": "https://www.maximilienrestaurant.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Marmite",
@@ -357,7 +357,7 @@
     "Neighborhood": "Capitol Hill",
     "Phone": "#ERROR!",
     "Website": "marmiteseattle.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Mr. West",
@@ -365,7 +365,7 @@
     "Neighborhood": "University Village-U-District area",
     "Phone": "#ERROR!",
     "Website": "mrwestcafebar.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Paparepas",
@@ -373,7 +373,7 @@
     "Neighborhood": "Kent",
     "Phone": "#ERROR!",
     "Website": "Paparepas.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Sea Wolf Bakers",
@@ -381,7 +381,7 @@
     "Neighborhood": "Fremont",
     "Phone": "#ERROR!",
     "Website": "Seawolfbakers.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Jujubeet Cafe",
@@ -389,7 +389,7 @@
     "Neighborhood": "Old Main Street, Bellevue",
     "Phone": "425 455-0696",
     "Website": "Jujubeet.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Full Tilt Columbia City",
@@ -397,7 +397,7 @@
     "Neighborhood": "Columbia City",
     "Phone": 2062262740,
     "Website": "fulltilticecream.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "La vita e bella",
@@ -405,7 +405,7 @@
     "Neighborhood": "Belltown",
     "Phone": "206-441-5322",
     "Website": "https://www.lavitaebellarestaurant.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Nell’s restaurant",
@@ -413,7 +413,7 @@
     "Neighborhood": "Green lake",
     "Phone": 2065244044,
     "Website": "Www.nellsrestaurant.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Tutta Bella Neapolitan Pizzeria",
@@ -421,7 +421,7 @@
     "Neighborhood": "Columbia City",
     "Phone": "206-721-3501",
     "Website": "Www.tuttabella.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Ballard Brothers / Taco Mama’s",
@@ -429,7 +429,7 @@
     "Neighborhood": "Ballard",
     "Phone": 2067844440,
     "Website": "Ballardbrothers.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "El Sombrero Family Mexican Restaurant",
@@ -437,7 +437,7 @@
     "Neighborhood": "Columbia City",
     "Phone": "206-722-1717",
     "Website": "Postmates, Uber Eats, DOORDASH and GRUBHUB",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Alberonas DaVinci pizza & pasta",
@@ -445,7 +445,7 @@
     "Neighborhood": "N seattle",
     "Phone": 2062972700,
     "Website": "I5pizza.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Distant Worlds Coffeehouse",
@@ -453,7 +453,7 @@
     "Neighborhood": "Roosevelt",
     "Phone": 2065255191,
     "Website": "https://www.facebook.com/distantworldscoffee/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "addo",
@@ -461,7 +461,7 @@
     "Neighborhood": "Ballard",
     "Phone": "N/A",
     "Website": "https://www.exploretock.com/addoballard/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Frank's",
@@ -469,7 +469,7 @@
     "Neighborhood": "Ravenna",
     "Phone": "206-525-0220",
     "Website": "http://www.franksoysterhouse.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Elysian Brewing",
@@ -477,7 +477,7 @@
     "Neighborhood": "Capitol Hill",
     "Phone": "206-906-9148",
     "Website": "https://www.elysianbrewing.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Kate's Pub",
@@ -485,7 +485,7 @@
     "Neighborhood": "Wallingford",
     "Phone": "206-547-6832",
     "Website": "katespub.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Zulu's Board Game Cafe",
@@ -493,7 +493,7 @@
     "Neighborhood": "Bothell",
     "Phone": "425-415-7171",
     "Website": "https://www.zulusgames.com/menu",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "La Cabana",
@@ -501,7 +501,7 @@
     "Neighborhood": "Greenwood",
     "Phone": "(206) 420-7693",
     "Website": "http://lacabanaseattle.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Thuy's",
@@ -509,7 +509,7 @@
     "Neighborhood": "Bainbridge Island",
     "Phone": "206-842-1769",
     "Website": "http://bithuys.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "KEZIRA CAFE",
@@ -517,7 +517,7 @@
     "Neighborhood": "Columbia City",
     "Phone": "1(206) 588 1024",
     "Website": "www.keziracaffe.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Pho An",
@@ -525,7 +525,7 @@
     "Neighborhood": "Lake City",
     "Phone": "(206) 362-3439",
     "Website": "N/A",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "full tilt ice cream",
@@ -533,7 +533,7 @@
     "Neighborhood": "White Center",
     "Phone": "206-767-4811",
     "Website": "www.fulltilticecream.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Full Tilt Ice Cream",
@@ -541,7 +541,7 @@
     "Neighborhood": "Ballard",
     "Phone": "206-767-4811",
     "Website": "www.fulltilticecream.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Bite Box",
@@ -549,7 +549,7 @@
     "Neighborhood": "Queen Anne",
     "Phone": "206 708-1213",
     "Website": "www.letsgogrub.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Skalka Georgian Bakery & Dumpling House",
@@ -557,7 +557,7 @@
     "Neighborhood": "Seattle Downtown",
     "Phone": "(206) 408-8169",
     "Website": "skalkaseattle.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Delish Ethiopian Cuisine",
@@ -565,7 +565,7 @@
     "Neighborhood": "Columbia city",
     "Phone": "206 723 3821",
     "Website": "Delishethiopianfood.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Pico Cafe",
@@ -573,7 +573,7 @@
     "Neighborhood": "Ballard",
     "Phone": "(206) 781-8000",
     "Website": "http://ristorantepicolinos.com/cafe-bakery/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Royal Thai Bistro",
@@ -581,7 +581,7 @@
     "Neighborhood": "Tacoma",
     "Phone": "(253) 564-9409",
     "Website": "http://www.royalthaibistro.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Red Robin",
@@ -589,7 +589,7 @@
     "Neighborhood": "King County",
     "Phone": "(206) 365-0933",
     "Website": "https://order.redrobin.com/menu/red-robin-northgate",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Theo Chocolate",
@@ -597,7 +597,7 @@
     "Neighborhood": "Fremont",
     "Phone": "206-809-8373",
     "Website": "https://theochocolate.com/theo-to-go",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Aloha Ramen",
@@ -605,7 +605,7 @@
     "Neighborhood": "Lake City",
     "Phone": "(206) 838-3837",
     "Website": "https://www.facebook.com/aloharamenlakecity/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Gainsbourg",
@@ -613,7 +613,7 @@
     "Neighborhood": "Greenwood",
     "Phone": "(206) 783-4004",
     "Website": "http://gainsbourglounge.com/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Le Coin",
@@ -621,7 +621,7 @@
     "Neighborhood": "Fremont",
     "Phone": "#ERROR!",
     "Website": "Lecoinseattle.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Windy City Pie",
@@ -629,7 +629,7 @@
     "Neighborhood": "Phinney Ridge",
     "Phone": "206.486.4743",
     "Website": "https://www.windycitypie.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Ban Hua Sai",
@@ -637,7 +637,7 @@
     "Neighborhood": "Maple Leaf",
     "Phone": "206-522-6001",
     "Website": "https://www.banhuasai.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Taqueria Cantina",
@@ -645,7 +645,7 @@
     "Neighborhood": "Belltown",
     "Phone": "206-995-8588",
     "Website": "taqueriacantina.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Malarky's Sports Grill",
@@ -653,7 +653,7 @@
     "Neighborhood": "Issaquah WA",
     "Phone": "425-392-6356",
     "Website": "www.malarkys.club",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Surrell on Madison",
@@ -661,7 +661,7 @@
     "Neighborhood": "Capitol Hill",
     "Phone": "425-275-2122",
     "Website": "Surrellseattle.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "The Whale Wins",
@@ -669,7 +669,7 @@
     "Neighborhood": "Wallingford",
     "Phone": "206-632-9425",
     "Website": "www.thewhalewins.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Bateau",
@@ -677,7 +677,7 @@
     "Neighborhood": "Capitol Hill",
     "Phone": "206-900-8699",
     "Website": "http://www.restaurantbateau.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Willmott's Ghost",
@@ -685,7 +685,7 @@
     "Neighborhood": "South Lake Union / Downtown",
     "Phone": "206-900-9650",
     "Website": "http://www.willmottsghost.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Dingfelder's Delicatessen",
@@ -693,7 +693,7 @@
     "Neighborhood": "Capitol Hill",
     "Phone": "(206) 403-1365",
     "Website": "dingfelders.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Karaage Setsuna",
@@ -701,7 +701,7 @@
     "Neighborhood": "Belltown",
     "Phone": "206-448-3595",
     "Website": "https://karaagesetsuna.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Chef Laio",
@@ -709,7 +709,7 @@
     "Neighborhood": "Phinney Ridge",
     "Phone": "206-789-6441",
     "Website": "chefliaoseattle.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Anju Bar and Eatery",
@@ -717,7 +717,7 @@
     "Neighborhood": "White Center",
     "Phone": "(206) 397-4669",
     "Website": "https://www.anjuseattle.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Copine",
@@ -725,7 +725,7 @@
     "Neighborhood": "Ballard",
     "Phone": "206-258-2467",
     "Website": "copineseattle.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Lupo",
@@ -733,7 +733,7 @@
     "Neighborhood": "Fremont",
     "Phone": "(206) 547-2144",
     "Website": "https://www.lupofremont.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Agua Verde Cafe",
@@ -741,7 +741,7 @@
     "Neighborhood": "U District",
     "Phone": 2065458570,
     "Website": "www.aguaverdecafe.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Ba Bar",
@@ -749,7 +749,7 @@
     "Neighborhood": "Capitol Hill and U-District",
     "Phone": "206.328.2030 and 206.328.1112",
     "Website": "https://babarseattle.com/university-village/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Ichiro Sushi and Teriyaki",
@@ -757,7 +757,7 @@
     "Neighborhood": "Magnolia",
     "Phone": "#ERROR!",
     "Website": "None",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Mura Asian Eatery",
@@ -765,7 +765,7 @@
     "Neighborhood": "Magnolia",
     "Phone": "(206) 390-7148",
     "Website": "http://www.muraasianeatery.com/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Delfino's Chicago Style Pizza",
@@ -773,7 +773,7 @@
     "Neighborhood": "University District",
     "Phone": "206-522-3466",
     "Website": "www.delfinospizza.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Coastline Burgers",
@@ -781,7 +781,7 @@
     "Neighborhood": "West Seattle",
     "Phone": "206-946-6827",
     "Website": "coastlineburgers.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Copper Coin",
@@ -789,7 +789,7 @@
     "Neighborhood": "West Seattle",
     "Phone": "206-420-3608",
     "Website": "coppercoinseattle.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Coastline Burgers",
@@ -797,7 +797,7 @@
     "Neighborhood": "Kirkland",
     "Phone": "425-822-1770",
     "Website": "coastlineburgers.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Rubinstein Bagels",
@@ -805,7 +805,7 @@
     "Neighborhood": "Downtown",
     "Phone": 2065551666,
     "Website": "www.rubinsteinbagels.com",
-    "Offer": "Delivery"
+    "Offer": "delivery"
   },
   {
     "Name": "Athina Grill",
@@ -813,7 +813,7 @@
     "Neighborhood": "Queen Anne Ave",
     "Phone": "206 2843868",
     "Website": "Athinagrill. Com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Aviv Hummus Bar",
@@ -821,7 +821,7 @@
     "Neighborhood": "Capitol Hill",
     "Phone": "206-323-7483",
     "Website": "http://www.avivhummusbar.com/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Tea Republik",
@@ -829,7 +829,7 @@
     "Neighborhood": "U District",
     "Phone": 5593926318,
     "Website": "tearepublik.square.site",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Soprano's Antico Pizza & Pasta",
@@ -837,7 +837,7 @@
     "Neighborhood": "West Seattle",
     "Phone": "206-596-3999",
     "Website": "https://ordernow.menudrive.com/sopranospizzawest",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Esters Enoteca",
@@ -845,7 +845,7 @@
     "Neighborhood": "Fremont",
     "Phone": "206-295-1903",
     "Website": "Estersenoteca.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Pair",
@@ -853,7 +853,7 @@
     "Neighborhood": "Ravenna",
     "Phone": "206-525-0220",
     "Website": "pairseattle.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Frank's Oyster House & Champagne Parlor",
@@ -861,7 +861,7 @@
     "Neighborhood": "Ravenna",
     "Phone": "206-525-0220",
     "Website": "franksoysterhouse.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Northlake Tavern and Pizza House",
@@ -869,7 +869,7 @@
     "Neighborhood": "U District",
     "Phone": 2066335317,
     "Website": "northlaketavern.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Razzi’s Pizza & Pasta",
@@ -877,7 +877,7 @@
     "Neighborhood": "Greenwood/Phinney ridge",
     "Phone": "206 782-9005 Greenwood 622-6878 delivery",
     "Website": "Razzispizza dot com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Café Munir",
@@ -885,7 +885,7 @@
     "Neighborhood": "North Ballard",
     "Phone": "206-783-4190",
     "Website": "cafemunir.blogspot.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Rio Blanco",
@@ -893,7 +893,7 @@
     "Neighborhood": "Auburn",
     "Phone": "‭(253) 939-9311‬",
     "Website": "https://www.rioblancowa.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Pazzo's",
@@ -901,7 +901,7 @@
     "Neighborhood": "Eastlake",
     "Phone": "(206) 329-6558",
     "Website": "gopazzos.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Grand Central Bakery",
@@ -909,7 +909,7 @@
     "Neighborhood": "Eastlake",
     "Phone": "206-957-9505",
     "Website": "Grandcentralbakery.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Grand Central Bakery",
@@ -917,7 +917,7 @@
     "Neighborhood": "Wedgwood",
     "Phone": "206-582-2311",
     "Website": "Grandcentralbakery.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Grand Central Bakery",
@@ -925,7 +925,7 @@
     "Neighborhood": "Burien",
     "Phone": "206-436-1065",
     "Website": "Grandcentralbakery.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Heritage Restaurant and Bar",
@@ -933,7 +933,7 @@
     "Neighborhood": "Woodinville",
     "Phone": "(425) 419-4760",
     "Website": "https://heritagewoodinville.com/homepage/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "The Olive and Grape",
@@ -941,7 +941,7 @@
     "Neighborhood": "Phinney Ridge",
     "Phone": "206) 724-0272",
     "Website": "ww.theoliveandgrape.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Chef Liao",
@@ -949,7 +949,7 @@
     "Neighborhood": "Phinney Ridge",
     "Phone": "(206) 789-6441",
     "Website": "http://chefliaoseattle.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "shibu ramen",
@@ -957,7 +957,7 @@
     "Neighborhood": "juanita beach",
     "Phone": "425-202-7459",
     "Website": "shiburamen.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Aburiya Bento House",
@@ -965,7 +965,7 @@
     "Neighborhood": "Belltown/Downtown",
     "Phone": 2064534685,
     "Website": "Facebook.com/aburiyabentohouse",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Shiro's",
@@ -973,7 +973,7 @@
     "Neighborhood": "Belltown",
     "Phone": 2064439844,
     "Website": "https://shiros.com/togo-menu/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Blue Water Taco Grill",
@@ -981,7 +981,7 @@
     "Neighborhood": "Queen Anne, First Hill, Sodo, Downtown",
     "Phone": "206 352 2407",
     "Website": "bluewatertacogrill.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "The Local 104",
@@ -989,7 +989,7 @@
     "Neighborhood": "Lake Forest Park/Shoreline",
     "Phone": 2069548669,
     "Website": "thelocal104.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Wedgwood Ale House and Cafe",
@@ -997,7 +997,7 @@
     "Neighborhood": "Wedgwood",
     "Phone": "206-527-2676",
     "Website": "https://www.wedgwoodalehouse.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Uber Eats",
@@ -1005,7 +1005,7 @@
     "Neighborhood": "Every",
     "Phone": "206-555-1212",
     "Website": "ubereats.com",
-    "Offer": "Delivery"
+    "Offer": "delivery"
   },
   {
     "Name": "The Comfort Zone restaurant located inside The Royal Esquire Club",
@@ -1013,7 +1013,7 @@
     "Neighborhood": "Columbia city in the Rainier Valley area",
     "Phone": 2062482600,
     "Website": "https://thecomfortzonesoulfood.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Grand Central Bakery",
@@ -1021,7 +1021,7 @@
     "Neighborhood": "Wedgwood",
     "Phone": "206-582-2311",
     "Website": "www.grandcentralbakery.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Grand Central Bakery",
@@ -1029,7 +1029,7 @@
     "Neighborhood": "Eastlake",
     "Phone": "206-957-9505",
     "Website": "www.grandcentralbakery.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Grand Central Bakery",
@@ -1037,7 +1037,7 @@
     "Neighborhood": "Burien",
     "Phone": "206-436-1065",
     "Website": "https://www.grandcentralbakery.com/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "The Butcher's Table",
@@ -1045,7 +1045,7 @@
     "Neighborhood": "Denny Triangle",
     "Phone": "206.209.5990",
     "Website": "thebutcherstable.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "The Secret Ingredient",
@@ -1053,7 +1053,7 @@
     "Neighborhood": "Seattle and the Eastside",
     "Phone": "425 200-5379",
     "Website": "www.secretingredientmeals.com",
-    "Offer": "Delivery"
+    "Offer": "delivery"
   },
   {
     "Name": "Jhanjay",
@@ -1061,7 +1061,7 @@
     "Neighborhood": "Wallingford",
     "Phone": "(206) 632 1484",
     "Website": "http://www.jhanjay.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "B-Side foods",
@@ -1069,7 +1069,7 @@
     "Neighborhood": "Capitol Hill",
     "Phone": "206-390-7670",
     "Website": "www.bside.cool",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Wally's Chowderhouse",
@@ -1077,7 +1077,7 @@
     "Neighborhood": "Des Moines",
     "Phone": 2068788140,
     "Website": "Wallysrestaurants.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Taproot Cafe & Bar",
@@ -1085,7 +1085,7 @@
     "Neighborhood": "Columbia City",
     "Phone": "206-420-2535",
     "Website": "www.taprootseattle.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Zhen Kee Restaurant",
@@ -1093,7 +1093,7 @@
     "Neighborhood": "Renton",
     "Phone": "425 277 1886",
     "Website": "www.zhenkee.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Irwin's Bakery & Cafe",
@@ -1101,7 +1101,7 @@
     "Neighborhood": "Wallingford",
     "Phone": "206-675-1484",
     "Website": "http://irwinsbakeryseattle.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Mi La Cay",
@@ -1109,7 +1109,7 @@
     "Neighborhood": "International District",
     "Phone": "(206) 322-6840",
     "Website": "https://www.seattlemilacay.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Harry’s Beach House",
@@ -1117,7 +1117,7 @@
     "Neighborhood": "West Seattle",
     "Phone": 2065136297,
     "Website": "Www.harrysbeachhouse.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Vendemmia",
@@ -1125,7 +1125,7 @@
     "Neighborhood": "Madrona",
     "Phone": "#ERROR!",
     "Website": "https://www.instagram.com/vendemmiaseattle/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Shug’s Soda Fountain & Ice Cream",
@@ -1133,7 +1133,7 @@
     "Neighborhood": "West Seattle",
     "Phone": 2066026420,
     "Website": "www.shugssodafountain.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Minamoto",
@@ -1141,7 +1141,7 @@
     "Neighborhood": "Bellevue",
     "Phone": "425-999-3338",
     "Website": "www.minamotowa.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Sages Restaurant",
@@ -1149,7 +1149,7 @@
     "Neighborhood": "Redmond",
     "Phone": "425.881.5004",
     "Website": "http://www.sagesrestaurant.com/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "BJ's Restaurant & Brewhouse",
@@ -1157,7 +1157,7 @@
     "Neighborhood": "Redmond",
     "Phone": "425-376-1560",
     "Website": "https://www.bjsrestaurants.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Pizzeria Pulcinella",
@@ -1165,7 +1165,7 @@
     "Neighborhood": "SE Seattle",
     "Phone": "(206) 772-6861",
     "Website": "http://vincesrestaurants.com/pizzeria-pulcinella",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Ristorante Paradiso",
@@ -1173,7 +1173,7 @@
     "Neighborhood": "Kirkland",
     "Phone": "425-889-8601",
     "Website": "ristoranteparadiso.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Teriyaki & Wok ™",
@@ -1181,7 +1181,7 @@
     "Neighborhood": "Capitol Hill",
     "Phone": "206-709-9888",
     "Website": "https://teriyakiandwok.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Kitchen Istanbul",
@@ -1189,7 +1189,7 @@
     "Neighborhood": "Ballard",
     "Phone": "206-782-9367",
     "Website": "http://www.kitchen-istanbul.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Bite Box",
@@ -1197,7 +1197,7 @@
     "Neighborhood": "Queen Anne",
     "Phone": "206-708-1213",
     "Website": "http://www.letsgogrub.com/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Pleasant Beach Village (The Marketplace, Hammy's, Joes Restaurant, Hammy's,",
@@ -1205,7 +1205,7 @@
     "Neighborhood": "Bainbridge Island",
     "Phone": "206-866-6122",
     "Website": "www.pleasantbeachvillage.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Delfino's Chicago Style Pizzaa",
@@ -1213,7 +1213,7 @@
     "Neighborhood": "University District/University Village",
     "Phone": "206-522-3466",
     "Website": "http://www.delfinospizza.com/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Palisade Restaurant",
@@ -1221,7 +1221,7 @@
     "Neighborhood": "Magnolia",
     "Phone": "(206) 285-1000",
     "Website": "www.palisaderestaurant.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Scotts Bar & Grill",
@@ -1229,7 +1229,7 @@
     "Neighborhood": "Edmonds/Shoreline",
     "Phone": "(425) 775-2561",
     "Website": "scottsbarandgrill.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Cutters Crabhouse",
@@ -1237,7 +1237,7 @@
     "Neighborhood": "Belltown/Downtown",
     "Phone": "(206) 448-4884",
     "Website": "cutterscrabhouse.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Tamale My Life",
@@ -1245,7 +1245,7 @@
     "Neighborhood": "SODO",
     "Phone": "206 552 9487",
     "Website": "www.tamalemylife.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "5 Spot",
@@ -1253,7 +1253,7 @@
     "Neighborhood": "Queen Anne",
     "Phone": "206-285-7768",
     "Website": "http://www.chowfoods.com/5-spot",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Endolyne Joe’s",
@@ -1261,7 +1261,7 @@
     "Neighborhood": "West Seattle",
     "Phone": "206-937-5637",
     "Website": "http://www.chowfoods.com/endolyne-joes",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Cactus Kirkland",
@@ -1269,7 +1269,7 @@
     "Neighborhood": "Kirkland/ Eastside",
     "Phone": "425.893.9799",
     "Website": "https://cactusrestaurants.com/location/kirkland/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Khao San Thai Cuisine",
@@ -1277,7 +1277,7 @@
     "Neighborhood": "Issaquah",
     "Phone": 4256518138,
     "Website": "none",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Cafe Munir",
@@ -1285,7 +1285,7 @@
     "Neighborhood": "Ballard",
     "Phone": "(206) 783-4190",
     "Website": "n/a",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Circa",
@@ -1293,7 +1293,7 @@
     "Neighborhood": "West Seattle",
     "Phone": "206-923-1102",
     "Website": "www.circalove.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Blue Moon Burgers",
@@ -1301,7 +1301,7 @@
     "Neighborhood": "West Seattle",
     "Phone": "206-457-4398",
     "Website": "www.bluemoonburgers.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Blue Moon Burgers",
@@ -1309,7 +1309,7 @@
     "Neighborhood": "Capitol Hill",
     "Phone": "206-325-2000",
     "Website": "www.bluemoonburgers.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Umi Sake House",
@@ -1317,7 +1317,7 @@
     "Neighborhood": "Belltown",
     "Phone": 2063748717,
     "Website": "UmiSakeHouse.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Raccolto",
@@ -1325,7 +1325,7 @@
     "Neighborhood": "West Seattle Junction",
     "Phone": "206-397-3775",
     "Website": "Raccoltoseattle.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Marlai Fine Thai Cuisine",
@@ -1333,7 +1333,7 @@
     "Neighborhood": "Laurelhurst",
     "Phone": "206-523-3200",
     "Website": "Marlaithai.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Kerloo Cellars",
@@ -1341,7 +1341,7 @@
     "Neighborhood": "SODO",
     "Phone": "206-349-0641",
     "Website": "Kerloocellars.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Bangrak Market",
@@ -1349,7 +1349,7 @@
     "Neighborhood": "Belltown",
     "Phone": "206.735.7352",
     "Website": "https://www.bangrakmarket.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "G.H. Pasta",
@@ -1357,7 +1357,7 @@
     "Neighborhood": "Belltown/Regrade",
     "Phone": "206.402.6210",
     "Website": "https://www.ghpastaseattle.com/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Shiro's Sushi",
@@ -1365,7 +1365,7 @@
     "Neighborhood": "Belltown",
     "Phone": "(206) 443-9844",
     "Website": "https://shiros.com/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Rocco's Pizza",
@@ -1373,7 +1373,7 @@
     "Neighborhood": "Belltown",
     "Phone": "206.448.2625",
     "Website": "https://www.roccosseattle.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Local Pho",
@@ -1381,7 +1381,7 @@
     "Neighborhood": "Belltown",
     "Phone": "206-4415885",
     "Website": "https://yelp.to/qTKq/5yhq0P0Kf5",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Spartas's pizza",
@@ -1389,7 +1389,7 @@
     "Neighborhood": "Lynnwood and Bothell",
     "Phone": "4257451880(Lynnwood) 4254851227(Bothell)",
     "Website": "Spartaspizza.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Just Poké",
@@ -1397,7 +1397,7 @@
     "Neighborhood": "Redmond",
     "Phone": "425-242-0889",
     "Website": "justpoke.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Just Poke",
@@ -1405,7 +1405,7 @@
     "Neighborhood": "Issaquah",
     "Phone": "425-961-0250",
     "Website": "justpoke.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Just Poke",
@@ -1413,7 +1413,7 @@
     "Neighborhood": "Kirkland",
     "Phone": "425-658-3387",
     "Website": "justpoke.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Cafe Javasti",
@@ -1421,7 +1421,7 @@
     "Neighborhood": "Wedgwood",
     "Phone": 2062040255,
     "Website": "Javasti.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Bounty Kitchen - Queen Anne",
@@ -1429,7 +1429,7 @@
     "Neighborhood": "Queen Anne",
     "Phone": "206 695 2017",
     "Website": "bountykitchenseattle.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Elliott Bay Public House & Brewery",
@@ -1437,7 +1437,7 @@
     "Neighborhood": "Lake City",
     "Phone": "206-365-2337",
     "Website": "https://www.elliottbaybrewing.com/locations/lake-city/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "2C Thai Bistro and Spirits",
@@ -1445,7 +1445,7 @@
     "Neighborhood": "Lake City Seattle",
     "Phone": "206-739-5909",
     "Website": "www.2CThai.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Sushi Kappo Tamura",
@@ -1453,7 +1453,7 @@
     "Neighborhood": "Eastlake",
     "Phone": "(206) 547-0937",
     "Website": "https://www.sushikappotamura.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Ooink",
@@ -1461,7 +1461,7 @@
     "Neighborhood": "Capitol Hill",
     "Phone": "206.568.7669",
     "Website": "https://www.ooinkramen.com/contact-us",
-    "Offer": "Delivery"
+    "Offer": "delivery"
   },
   {
     "Name": "Chutney’s Bistro",
@@ -1469,7 +1469,7 @@
     "Neighborhood": "Wallingford",
     "Phone": "(206) 634-1000",
     "Website": "http://www.chutneysbistro.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "reckless noodles",
@@ -1477,7 +1477,7 @@
     "Neighborhood": "Central District",
     "Phone": "(206) 329-5499",
     "Website": "https://www.recklessnoodles.com/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "El Camino",
@@ -1485,7 +1485,7 @@
     "Neighborhood": "Fremont",
     "Phone": "206-632-7303",
     "Website": "www.elcaminorestaurant.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "South Town Pie",
@@ -1493,7 +1493,7 @@
     "Neighborhood": "South Park",
     "Phone": "206-535-7166",
     "Website": "www.southtownpie.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Lunchbox Laboratory Seattle",
@@ -1501,7 +1501,7 @@
     "Neighborhood": "Seattle",
     "Phone": 2066211090,
     "Website": "lunchboxlab.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Lunchbox Laboratory Redmond",
@@ -1509,7 +1509,7 @@
     "Neighborhood": "Redmond",
     "Phone": "425-307-1634",
     "Website": "lunchboxlab.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Lunchbox Laboratory Bellevue",
@@ -1517,7 +1517,7 @@
     "Neighborhood": "Bellevue",
     "Phone": "425-206-5676",
     "Website": "lunchboxlab.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "The Alibi Room",
@@ -1525,7 +1525,7 @@
     "Neighborhood": "Pike Place Market",
     "Phone": "(206) 623-3180",
     "Website": "http://seattlealibi.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Bottega Italiana",
@@ -1533,7 +1533,7 @@
     "Neighborhood": "Pike Place Market",
     "Phone": "(206) 343-0200",
     "Website": "http://bottegaitaliana.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Cinnamon Works",
@@ -1541,7 +1541,7 @@
     "Neighborhood": "Pike Place Market",
     "Phone": "(206) 583-0085",
     "Website": "https://cinnamonworks.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "DeLaurenti Food and Wine",
@@ -1549,7 +1549,7 @@
     "Neighborhood": "Pike Place Market",
     "Phone": "(206) 622-0141",
     "Website": "https://delaurenti.com/",
-    "Offer": "Delivery"
+    "Offer": "delivery"
   },
   {
     "Name": "Honest Biscuits",
@@ -1557,7 +1557,7 @@
     "Neighborhood": "Pike Place Market",
     "Phone": "(206) 682-7179",
     "Website": "https://www.honestbiscuits.com/menu",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "indi chocolate",
@@ -1565,7 +1565,7 @@
     "Neighborhood": "Pike Place Market",
     "Phone": "(425) 243-2089",
     "Website": "https://indichocolate.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Island Girl Seafood",
@@ -1573,7 +1573,7 @@
     "Neighborhood": "Pike Place Market",
     "Phone": "(360) 255-1524",
     "Website": "https://shoutout.wix.com/so/80N3pdKch#/main",
-    "Offer": "Delivery"
+    "Offer": "delivery"
   },
   {
     "Name": "Los Agaves",
@@ -1581,7 +1581,7 @@
     "Neighborhood": "Pike Place Market",
     "Phone": "(206) 504-0202",
     "Website": "https://losagaves.net/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Maximilien",
@@ -1589,7 +1589,7 @@
     "Neighborhood": "Pike Place Market",
     "Phone": "(206) 682-7270",
     "Website": "https://www.maximilienrestaurant.com/le-meal-bag",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Michou Deli",
@@ -1611,7 +1611,7 @@
     "Neighborhood": "Pike Place Market",
     "Phone": "(206) 622-4881 ",
     "Website": "https://www.mrdsgreekdelicacies.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "blue water taco grill ",
@@ -1619,7 +1619,7 @@
     "Neighborhood": "queen anne ",
     "Phone": "206 352 2407",
     "Website": "bluewatertacogrill.com ",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Old Stove Brewing Co. ",
@@ -1627,7 +1627,7 @@
     "Neighborhood": "Pike Place Market",
     "Phone": "(206) 602-6120 ",
     "Website": "https://www.oldstove.com/uploads/pdf/currentfoodmenu.pdf",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Pike's Pit BBQ",
@@ -1635,7 +1635,7 @@
     "Neighborhood": "Pike Place Market",
     "Phone": " (206) 538-0779",
     "Website": "https://www.pikespit.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Piroshky Piroshky",
@@ -1643,7 +1643,7 @@
     "Neighborhood": "Pike Place Market",
     "Phone": "(206) 764-1000 ",
     "Website": "https://www.piroshkybakery.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Pizza and Pasta Bar",
@@ -1651,7 +1651,7 @@
     "Neighborhood": "Pike Place Market",
     "Phone": " (206) 621-7545",
     "Website": "https://pizza-and-pasta-bar.business.site/",
-    "Offer": "Delivery"
+    "Offer": "delivery"
   },
   {
     "Name": "Seattle Bagel Bakery",
@@ -1659,7 +1659,7 @@
     "Neighborhood": "Pike Place Market",
     "Phone": "(206) 624-8099",
     "Website": "http://seattlebagel.com/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Starbuck's Coffee",
@@ -1667,7 +1667,7 @@
     "Neighborhood": "Pike Place Market",
     "Phone": "(206) 448-8762",
     "Website": "https://www.starbucks.com/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Taproom at Pike Place",
@@ -1675,7 +1675,7 @@
     "Neighborhood": "Pike Place Market",
     "Phone": "(206) 829-4800 ",
     "Website": "https://taproomatpikeplace.com/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Three Girls Bakery",
@@ -1683,7 +1683,7 @@
     "Neighborhood": "Pike Place Market",
     "Phone": " (206) 622-1045 ",
     "Website": "https://threegirlsbakery.com/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Uli's Famous Sausage",
@@ -1691,7 +1691,7 @@
     "Neighborhood": "Pike Place Market",
     "Phone": "(206) 838-1712",
     "Website": "Uli's Famous Sausage",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Tamarind Tree",
@@ -1699,7 +1699,7 @@
     "Neighborhood": "International District",
     "Phone": "(206) 860-1404",
     "Website": "https://tamarindtreerestaurant.com/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Corner Bakery Cafe",
@@ -1707,7 +1707,7 @@
     "Neighborhood": "Southcenter/Tukwila",
     "Phone": 2066732955,
     "Website": "Cornerbakerycafe.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Specialty’s Cafe and Bakery",
@@ -1715,7 +1715,7 @@
     "Neighborhood": "South Lake Union",
     "Phone": "877-502-2837",
     "Website": "Specialtys.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Fuji Bakery",
@@ -1723,7 +1723,7 @@
     "Neighborhood": "Interbay",
     "Phone": "206 216 3616",
     "Website": "https://fujibakeryinc.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "El Ranchon",
@@ -1731,7 +1731,7 @@
     "Neighborhood": "Magnolia",
     "Phone": "(206) 281-9233",
     "Website": "https://www.elranchonmagnolia.com/menus.html",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Seastar Restaurant and Raw Bar",
@@ -1739,7 +1739,7 @@
     "Neighborhood": "Bellevue",
     "Phone": 4254560010,
     "Website": "www.seastarrestaurant.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "John Howie Steak",
@@ -1747,7 +1747,7 @@
     "Neighborhood": "Bellevue",
     "Phone": 4254400880,
     "Website": "www.johnhowiesteak.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Beardslee Public House",
@@ -1755,7 +1755,7 @@
     "Neighborhood": "Bothell",
     "Phone": 4252861001,
     "Website": "www.beardsleeph.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Theo Chocolate",
@@ -1763,7 +1763,7 @@
     "Neighborhood": "Fremont",
     "Phone": "206.809.8373",
     "Website": "https://theochocolate.com/theo-to-go",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "GoldinBlack",
@@ -1771,7 +1771,7 @@
     "Neighborhood": "Lower Queen Anne",
     "Phone": 2066877756,
     "Website": "http://goldinblack.blogspot.com/?m=1",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Zouave",
@@ -1779,7 +1779,7 @@
     "Neighborhood": "Ravenna",
     "Phone": "206-525-7747",
     "Website": "zouaverestaurant.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Tamale My Life LLC, Angela McFarlane",
@@ -1787,7 +1787,7 @@
     "Neighborhood": "SODO",
     "Phone": 2065529487,
     "Website": "www.tamalemylife.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Konvene Coffee",
@@ -1795,7 +1795,7 @@
     "Neighborhood": "Queen Anne",
     "Phone": 2068669134,
     "Website": "www.konvene.coffee",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "ChurchKey Pub",
@@ -1803,7 +1803,7 @@
     "Neighborhood": "downtown edmonds ",
     "Phone": "(425) 835-0230",
     "Website": "https://churchkeypub.com/",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Eight Row",
@@ -1811,7 +1811,7 @@
     "Neighborhood": "Green Lake",
     "Phone": "(206) 294-3178",
     "Website": "Www.eightrow.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "2C Thai Bistro",
@@ -1819,7 +1819,7 @@
     "Neighborhood": "Lake City   (hey, create a category for Lake City please, we are a neighborhood)",
     "Phone": "(206) 739-5909",
     "Website": "2cthai.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Twilight Exit",
@@ -1827,7 +1827,7 @@
     "Neighborhood": "Central District",
     "Phone": "(206) 324-7462",
     "Website": "https://www.facebook.com/Twilight-Exit-133599351440/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Matts' Rotisserie & Oyster Lounge",
@@ -1835,7 +1835,7 @@
     "Neighborhood": "Redmond Town Center",
     "Phone": "425.376.0909",
     "Website": "Mattsrotisserie.com ",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Wann Japanese Izakaya ",
@@ -1843,7 +1843,7 @@
     "Neighborhood": "Belltown",
     "Phone": 2064415637,
     "Website": "www.wann-izakaya.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Bistro Turkuaz",
@@ -1851,7 +1851,7 @@
     "Neighborhood": "Madrona",
     "Phone": "206-324-3039",
     "Website": "www.bistroturkuazseattle.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Pazzo's on Eastlake",
@@ -1859,7 +1859,7 @@
     "Neighborhood": "Eastlake (union)",
     "Phone": 2063296558,
     "Website": "www.pazzosoneastlake.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Hosoonyi",
@@ -1867,7 +1867,7 @@
     "Neighborhood": "Edmonds",
     "Phone": "(425) 775-8196",
     "Website": "https://www.yelp.com/biz/hosoonyi-korean-restaurant-edmonds",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "Rupee Bar",
@@ -1875,7 +1875,7 @@
     "Neighborhood": "Ballard",
     "Phone": "206 397 3263",
     "Website": "rupeeseattle.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Bongos Cafe",
@@ -1883,7 +1883,7 @@
     "Neighborhood": "Greenlake",
     "Phone": "(206) 420-8548",
     "Website": "https://www.bongosseattle.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "harrys beach house",
@@ -1891,7 +1891,7 @@
     "Neighborhood": "west Seattle",
     "Phone": "206 513 6297",
     "Website": "www.harrysbeachhouse.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Eight Row",
@@ -1899,7 +1899,7 @@
     "Neighborhood": "Green Lake",
     "Phone": "(206) 294-3178",
     "Website": "Www.eightrow.com",
-    "Offer": "Takeout"
+    "Offer": "takeout"
   },
   {
     "Name": "El Borracho Pike Place Market",
@@ -1907,7 +1907,7 @@
     "Neighborhood": "Downtown",
     "Phone": 2065380440,
     "Website": "www.elborracho.co",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "El Borracho Ballard",
@@ -1915,7 +1915,7 @@
     "Neighborhood": "Ballard",
     "Phone": "206582-1974",
     "Website": "www.elborracho.co",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "El Borracho Tacoma",
@@ -1923,7 +1923,7 @@
     "Neighborhood": "Tacoma",
     "Phone": "253-3145286",
     "Website": "www.elborracho.co",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "The Berliner Doner Kebab",
@@ -1931,7 +1931,7 @@
     "Neighborhood": "South Lake Union",
     "Phone": 2063543944,
     "Website": "www.berlinerseattle.com",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Famous Dave's",
@@ -1939,7 +1939,7 @@
     "Neighborhood": "Tacoma",
     "Phone": "253-722-0500",
     "Website": "https://www.famousdaves.com/togo/Tacoma",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Olmstead",
@@ -1947,7 +1947,7 @@
     "Neighborhood": "Capitol Hill",
     "Phone": 2065574201,
     "Website": "https://www.olmsteadseattle.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
   },
   {
     "Name": "Celine Patisserie",
@@ -1955,6 +1955,46 @@
     "Neighborhood": "Phinney Ridge",
     "Phone": "(206) 258-6572",
     "Website": "https://celinepatisserie.com/",
-    "Offer": "Takeout, Delivery"
+    "Offer": "both"
+  },
+  {
+    "Name": "Cook Weaver",
+    "Address": "806 East Roy Street Seattle, WA, 98102",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-324-0599",
+    "Website": "http://www.cookweaver.com/",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Delfino's Chicago Style Pizza",
+    "Address": "2631 NE UNIVERSITY VILLAGE ST SEATTLE, WA 98105",
+    "Neighborhood": "Ravenna/University Village",
+    "Phone": "206-522-3466",
+    "Website": "http://www.delfinospizza.com/",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Bite Box",
+    "Address": "307 West McGraw Street",
+    "Neighborhood": "Queen Anne",
+    "Phone": "206 708-1213",
+    "Website": "www.letsgogrub.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Otter Bar and Burger",
+    "Address": "2379 Eastlake Ave East",
+    "Neighborhood": "Eastlake",
+    "Phone": "(206) 906-9401",
+    "Website": "Www.otterbarandburger.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Volterra",
+    "Address": "121 Kirkland Ave",
+    "Neighborhood": "Kirkland",
+    "Phone": "425 202 7201",
+    "Website": "www.volterrakirkland.com",
+    "Offer": "takeout"
   }
 ]

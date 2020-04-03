@@ -15,8 +15,10 @@
 <p id="U5033803952QL"><description>Seattle Times news assistant</description>
 </p>
 </byline>
-<p></p>
-<p><italic>Dates and times are subject to change. Call ahead to confirm.</italic>
+
+<p>Here are some of the restaurants offering takeout and/or delivery options due to the recent ban on dining in. This list is not exhaustive and is subject to change. It will be updated as we learn of more options. If you’d like to submit a restaurant, please see the form at the bottom of this page: st.news/foodtogo.</p>
+<p>Due to a high volume of submissions, we may not get to updating the list with your entry right away, but we are including as many as we can.</p>
+<p>Check websites/Facebook pages or call for more information on menu items, prices and more. Note that some establishments deliver only within a certain radius and some have modified their hours. Restaurants are listed alphabetically by neighborhood.
 </p>
 <%
 
@@ -29,27 +31,17 @@ json.Ready.forEach(function(row) {
   stories[category][rank].push(row);
 });
 
-
-%>
-
-<% 
 for (var d in stories) { 
 var category = stories[d];
 
-%>
-
-<%
 for (var g in category) { 
 var day = category[g];
-%>
-
-<% 
-var daySort =  day.sort();
 
 %>
 
-<subhead class="listhead" channel="!"><p><%= d %></p></subhead>
-<% daySort.forEach(function(row) { %>
+<subhead class="listhead-item"><p><%= d %></p></subhead>
+
+<% day.sort().forEach(function(row) { %>
 
 <p><leadin><%= row.Name %></leadin> <%= row.Address %>; <%= row.Phone %> (<%= row.Offer %>)</p>
 <% }); %>
