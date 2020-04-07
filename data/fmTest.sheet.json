@@ -648,6 +648,14 @@
     "Offer": "both"
   },
   {
+    "Name": "Marmite Seattle",
+    "Address": "1424 11th Ave., Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-755-8606",
+    "Website": "marmiteseattle.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Meet Korean BBQ",
     "Address": "500 E. Pike St., Seattle",
     "Neighborhood": "Capitol Hill",
@@ -684,7 +692,7 @@
     "Address": "1610 12th Ave., Seattle",
     "Neighborhood": "Capitol Hill",
     "Phone": "",
-    "Website": "rachelsgingerbeer.com",
+    "Website": "https://rachelsgingerbeer.com/",
     "Offer": "both"
   },
   {
@@ -805,6 +813,14 @@
     "Neighborhood": "Capitol Hill ",
     "Phone": "206-257-0312",
     "Website": "nueseattle.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Dick’s Drive-In",
+    "Address": "Multiple locations",
+    "Neighborhood": "Capitol Hill, Crown Hill, Edmonds, Kent, Lake City, Queen Anne, Wallingford",
+    "Phone": "",
+    "Website": "ddir.com",
     "Offer": "both"
   },
   {
@@ -1926,14 +1942,6 @@
     "Phone": "",
     "Website": "cherryst.com",
     "Offer": "takeout"
-  },
-  {
-    "Name": "Dick’s Drive-In",
-    "Address": "Capitol Hill, Crown Hill, Edmonds, Kent, Lake City, Queen Anne, Wallingford",
-    "Neighborhood": "Multiple locations",
-    "Phone": "",
-    "Website": "ddir.com",
-    "Offer": "both"
   },
   {
     "Name": "Ezells",
