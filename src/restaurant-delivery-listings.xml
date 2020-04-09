@@ -44,7 +44,7 @@ var day = category[g];
 
 <% day.forEach(function(row) { %>
 <p channel="!"><%= row.Neighborhood %></p>
-<p><leadin><%= row.Name %></leadin> <%= row.Address %>; <%= row.Phone %> (<%= row.Offer %>)</p>
+<p><bold><%= row.Name %></bold> <%= row.Address %><%= row.Phone ? `; ${row.Phone}` : "" %> (<%= row.Offer %>)</p>
 <% }); %>
 
 <%
