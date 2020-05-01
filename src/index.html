@@ -30,24 +30,25 @@ neighborhood = Object.keys(neighborhood);
 
 
     %>
-      <nav class="filters">
-          <h3>Filter restaurants</h3>
-          <select class="neighborhood-filter" >
-            <option value="">CHOOSE A NEIGHBORHOOD</option>
-            <% neighborhood.forEach(function(d) { %>
-            
-              <option  name="neighborhood-filter" value="<%= d %>"><%= d %></option>
+      
+      <form class="search-form">
+        <label class="instructions" for="search-bar">Search for a restaurant</label>
+        <input id="search-bar">
+      </form>
 
-            <% }) %>
-            </select>
-          
+      <form class="filters">
+        <p class="instructions" for="neighborhood-filter">Filter by neighborhood</p>
+        <select class="neighborhood-filter selector" id="neighborhood-filter">
+          <option value="">CHOOSE A NEIGHBORHOOD</option>
+          <% neighborhood.forEach(function(d) { %>
+            <option  name="neighborhood-filter" value="<%= d %>"><%= d %></option>
+          <% }) %>
+          </select>
+      </form>
 
-
-          </nav>
-
-      <ul  class="listings">
+      <ul  class="listings" id="listings">
      <% json.Ready.forEach(function(row) { %>
-      <p data-neighborhood="<%= row.Neighborhood.trim() %>"><strong style="font-size:1.5em"><a href="http://www.<%= row.Website %>" target="_blank"><%= row.Name %> </a></strong> <i><%= row.Offer %></i><br><%= row.Address %> <a href="tel:<%= row.Phone %>"><%= row.Phone %></a> </p>
+      <p class="restaurant" data-neighborhood="<%= row.Neighborhood.trim() %>"><strong style="font-size:1.5em"><a href="http://www.<%= row.Website %>" target="_blank"><%= row.Name %> </a></strong> <i><%= row.Offer %></i><br><%= row.Address %> <a href="tel:<%= row.Phone %>"><%= row.Phone %></a> </p>
     <% }) %>
     </ul>
 

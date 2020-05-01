@@ -16,6 +16,14 @@
     "Offer": "both"
   },
   {
+    "Name": "Pleasant Beach Village (The Marketplace, Joe's Restaurant, Hammy's)",
+    "Address": "4738 Lynwood Center Rd. N.E., Bainbridge Island",
+    "Neighborhood": "Bainbridge Island",
+    "Phone": "206-866-6122",
+    "Website": "pleasantbeachvillage.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Thuy's",
     "Address": "120 Madrone Ln. N., Bainbridge Island",
     "Neighborhood": "Bainbridge Island",
@@ -29,6 +37,14 @@
     "Neighborhood": "Ballard",
     "Phone": "",
     "Website": "ericriveracooks.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Alison’s Coastal Cafe & Bakery ",
+    "Address": "5404 Leary Ave. N.W., Seattle",
+    "Neighborhood": "Ballard",
+    "Phone": "206-322-5028",
+    "Website": "facebook.com/alisonscoastalcafe",
     "Offer": "both"
   },
   {
@@ -48,12 +64,28 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Ballard Loft",
+    "Address": "5105 Ballard Ave. N.W., Seattle",
+    "Neighborhood": "Ballard",
+    "Phone": "206-420-2737",
+    "Website": "ballardloft.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Ballard Pizza Co.",
     "Address": "5107 Ballard Ave. N.W., Seattle",
     "Neighborhood": "Ballard",
     "Phone": "206-946-9960",
     "Website": "ethanstowellrestaurants.com/locations/ballard-pizza-company",
     "Offer": "both"
+  },
+  {
+    "Name": "Boar's Nest",
+    "Address": "2008 N.W. 56th St., Seattle",
+    "Neighborhood": "Ballard",
+    "Phone": "206-973-1970",
+    "Website": "ballardbbq.com",
+    "Offer": "takeout"
   },
   {
     "Name": "Copine",
@@ -64,11 +96,35 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Cycle Dogs",
+    "Address": "4810 17th Ave. N.W., Seattle",
+    "Neighborhood": "Ballard",
+    "Phone": " 206-372-8510",
+    "Website": "restaurantji.com/wa/seattle/cycle-dogs-",
+    "Offer": "both"
+  },
+  {
     "Name": "Delancey",
     "Address": "1415 N.W. 70th St., Seattle",
     "Neighborhood": "Ballard",
     "Phone": "206-838-1960 ",
     "Website": "delanceyseattle.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "El Borracho ",
+    "Address": "5465 Leary Ave. N.W., Seattle",
+    "Neighborhood": "Ballard",
+    "Phone": "206-582-1974",
+    "Website": "elborracho.co",
+    "Offer": "both"
+  },
+  {
+    "Name": "Frank's Smokehouse",
+    "Address": "7034 15th Ave. N.W., Seattle",
+    "Neighborhood": "Ballard",
+    "Phone": "206-784-5701",
+    "Website": "thewaterwheellounge.com/#grub",
     "Offer": "takeout"
   },
   {
@@ -96,6 +152,22 @@
     "Offer": "both"
   },
   {
+    "Name": "Kitchen Istanbul",
+    "Address": "1744 N.W. Market St., Seattle",
+    "Neighborhood": "Ballard",
+    "Phone": "206-782-9367",
+    "Website": "kitchen-istanbul.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Kiss Cafe",
+    "Address": "2817 N.W. Market St., Seattle ",
+    "Neighborhood": "Ballard",
+    "Phone": "206-789-5477",
+    "Website": "ballardkisscafe.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Little Chinook’s",
     "Address": "1900 W. Nickerson St., Seattle",
     "Neighborhood": "Ballard",
@@ -110,6 +182,14 @@
     "Phone": "206-659-0170",
     "Website": "mainstayprovisions.com",
     "Offer": "both"
+  },
+  {
+    "Name": "Miri's at Golden Gardens",
+    "Address": "8498 Seaview Pl. N.W., Seattle",
+    "Neighborhood": "Ballard",
+    "Phone": "360-317-8530",
+    "Website": "mirisseattle.com",
+    "Offer": "takeout"
   },
   {
     "Name": "Miro Tea",
@@ -152,11 +232,35 @@
     "Offer": "both"
   },
   {
+    "Name": "Raiz",
+    "Address": "500 N.W. 65th St., Seattle",
+    "Neighborhood": "Ballard",
+    "Phone": "206-402-3281",
+    "Website": "raizseattle.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Rosellini’s Bakery",
     "Address": "1413 N.W. 70th St., Seattle",
     "Neighborhood": "Ballard",
     "Phone": "206-706-4035",
     "Website": "rosellinis.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Rupee Bar",
+    "Address": "6307 24th Ave. N.W., Seattle",
+    "Neighborhood": "Ballard",
+    "Phone": "206-397-3263",
+    "Website": "rupeeseattle.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Sawyer",
+    "Address": "5309 22nd Ave. N.W., Seattle",
+    "Neighborhood": "Ballard",
+    "Phone": "206-420-7225",
+    "Website": "sawyerseattle.com",
     "Offer": "takeout"
   },
   {
@@ -168,20 +272,44 @@
     "Offer": "both"
   },
   {
-    "Name": "Schmaltzy's Delicatessen",
-    "Address": "928 N.W. Leary Way #102, Seattle",
-    "Neighborhood": "Ballard",
-    "Phone": "206-784-1413",
-    "Website": "schmaltzysdeli.com",
-    "Offer": "takeout"
-  },
-  {
     "Name": "Senor Moose",
     "Address": "5242 Leary Ave. N.W., Seattle",
     "Neighborhood": "Ballard",
     "Phone": "206-784-5568",
     "Website": "senormoose.com",
     "Offer": "both"
+  },
+  {
+    "Name": "Skal",
+    "Address": "5429 Ballard Ave. N.W., Seattle",
+    "Neighborhood": "Ballard",
+    "Phone": "206-829-9615",
+    "Website": "skalballard.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Tarasco",
+    "Address": "1452 N.W. 70th St., Seattle",
+    "Neighborhood": "Ballard ",
+    "Phone": "206-782-1485",
+    "Website": "yelp.com/biz/tarasco-mexican-restaurant-seattle",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Thai Thani",
+    "Address": "2021 N.W. Market St. #B. Seattle",
+    "Neighborhood": "Ballard",
+    "Phone": "206-784-2324",
+    "Website": "thaithanikitchen.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "The Fat Hen",
+    "Address": "1418 N.W. 70th St., Seattle",
+    "Neighborhood": "Ballard",
+    "Phone": "206-782-5422",
+    "Website": "thefathenseattle.com",
+    "Offer": "takeout"
   },
   {
     "Name": "Trailbend Taproom",
@@ -208,6 +336,14 @@
     "Offer": "both"
   },
   {
+    "Name": "Vietnam Cafe and Sandwich",
+    "Address": "5701 15th Ave. N.W., Seattle",
+    "Neighborhood": "Ballard",
+    "Phone": "206-783-0836",
+    "Website": "vietnamcafesandwich.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Watson's Counter",
     "Address": "6201 15th Ave. N.W., Seattle",
     "Neighborhood": "Ballard",
@@ -232,11 +368,11 @@
     "Offer": "both"
   },
   {
-    "Name": "Buddha Bruddah",
-    "Address": "2201 Rainier Ave. S., Seattle",
+    "Name": "Clock Out/Breezy Town Pizza",
+    "Address": "4864 Beacon Ave S., Seattle",
     "Neighborhood": "Beacon Hill",
-    "Phone": "206-556-4134",
-    "Website": "buddhabruddah.com",
+    "Phone": "206-402-6322",
+    "Website": "breezytownpizza.com",
     "Offer": "both"
   },
   {
@@ -245,6 +381,14 @@
     "Neighborhood": "Beacon Hill",
     "Phone": "206-535-7070",
     "Website": "oak-seattle.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Perihelion Brewery",
+    "Address": "2800 16th Ave. S., Seattle",
+    "Neighborhood": "Beacon Hill",
+    "Phone": "206-200-3935",
+    "Website": "perihelionbeer.square.site",
     "Offer": "takeout"
   },
   {
@@ -272,6 +416,22 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Angelo's of Bellevue",
+    "Address": "1830 130th Ave. N.E., Bellevue",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-883-2777",
+    "Website": "angelosofbellevue.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Ascend Prime Steak & Sushi",
+    "Address": "10400 N.E. Fourth St. Ste. 3100, Bellevue",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-625-2080",
+    "Website": "ascendathome.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Bellden Cafe",
     "Address": "10527 Main St., Bellevue",
     "Neighborhood": "Bellevue",
@@ -285,6 +445,14 @@
     "Neighborhood": "Bellevue",
     "Phone": "425-455-2033",
     "Website": "bisonmain.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Burger Hut",
+    "Address": "14603 N.E. 20th St. #6-A1, Bellevue",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-643-3985",
+    "Website": "facebook.com/pages/Burger-and-Kabob-Hut/114652219967143",
     "Offer": "both"
   },
   {
@@ -302,6 +470,14 @@
     "Phone": "425-578-7878",
     "Website": "centralbar.com",
     "Offer": "takeout"
+  },
+  {
+    "Name": "Chutney’s Bellevue ",
+    "Address": "938 110th Ave. N.E., Bellevue ",
+    "Neighborhood": "Bellevue ",
+    "Phone": "425-467-0867",
+    "Website": "chutneys.com",
+    "Offer": "both"
   },
   {
     "Name": "Curry Point Indian Cuisine",
@@ -328,11 +504,59 @@
     "Offer": "both"
   },
   {
+    "Name": "Inchin’s Bamboo Garden ",
+    "Address": "601 108th Ave. N.E., Bellevue",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-454-1884",
+    "Website": "bamboo-gardens.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "India Gate",
+    "Address": "3080 148th Ave. S.E., Bellevue",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-747-1075",
+    "Website": "indiagatebellevue.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Joey",
+    "Address": "800 Bellevue Way N.E., Bellevue",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-637-1177",
+    "Website": "joeyrestaurants.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "John Howie Steak",
+    "Address": "11111 N.E. Eighth St., Bellevue",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-440-0880",
+    "Website": "johnhowiesteak.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "L'Experience Paris",
     "Address": "258 106th Ave. N.E., Bellevue",
     "Neighborhood": "Bellevue",
     "Phone": "425-429-6961",
     "Website": "lexperienceparis.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "The Lakehouse",
+    "Address": "10455 N.E. 5th Pl., Bellevue",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-454-7076",
+    "Website": "thelakehousebellevue.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Lunchbox Laboratory ",
+    "Address": "989 112th Ave. #105, Bellevue",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-206-5676",
+    "Website": "lunchboxlab.com",
     "Offer": "both"
   },
   {
@@ -344,12 +568,108 @@
     "Offer": "both"
   },
   {
+    "Name": "Minamoto",
+    "Address": "11061 N.E. Ninth St., Bellevue",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-999-3338",
+    "Website": "minamotowa.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Needs Deli | Merchantile",
+    "Address": "800 Bellevue Place, Bellevue ",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-646-7222",
+    "Website": "bellevuecollection.com/tenant/needs-deli-merchantile/#",
+    "Offer": "both"
+  },
+  {
+    "Name": "Peony Kitchen",
+    "Address": "10317 Main St., Bellevue",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-502-7652",
+    "Website": "peonykitchen.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "P.F. Chang's",
+    "Address": "575 Bellevue Square, Bellevue ",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-637-3582",
+    "Website": "bellevuecollection.com/tenant/p-f-changs-china-bistro/#",
+    "Offer": "both"
+  },
+  {
+    "Name": "Pressed Juicery",
+    "Address": "575 Bellevue Square, Bellevue ",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-454-0592",
+    "Website": "bellevuecollection.com/tenant/pressed-juicery/#",
+    "Offer": "both"
+  },
+  {
+    "Name": "Resonate Brewery",
+    "Address": "5606 119th Ave. S.E. #A, Bellevue",
+    "Neighborhood": "Bellevue",
+    "Phone": " 425-644-3164",
+    "Website": "resonatebrewery.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Sandwich House TRES",
+    "Address": "1502 145th Pl. S.E., Bellevue",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-643-7333",
+    "Website": "tressandwich.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Seastar Restaurant and Raw Bar",
+    "Address": "205 108th Ave. N.E. Ste. 100, Bellevue",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-456-0010",
+    "Website": "seastarrestaurant.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Square Lotus",
+    "Address": "3540 Factoria Blvd. S.E. Ste. A, Bellevue",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-679-0680",
+    "Website": "squarelotus.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Sushi In Joy",
+    "Address": "2618 Bellevue Way N.E., Bellevue",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-576-1743",
+    "Website": "sushiinjoybellevue.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Szechuan Chef",
+    "Address": "15015 Main St., Bellevue ",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-746-9008",
+    "Website": "yelp.com/biz/szechuan-chef-chinese-restaurant-bellevue",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Terry's Kitchen ",
     "Address": "5625 119th Ave. S.E., Bellevue",
     "Neighborhood": "Bellevue",
     "Phone": "425-590-9545",
     "Website": "terryskitchenbellevue.com",
     "Offer": "takeout"
+  },
+  {
+    "Name": "Thai Kitchen Bird Pepper",
+    "Address": "575 Bellevue Square, Bellevue ",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-454-7334",
+    "Website": "bellevuecollection.com/tenant/thai-kitchen-bird-pepper/#",
+    "Offer": "both"
   },
   {
     "Name": "Thaal",
@@ -366,6 +686,22 @@
     "Phone": "425-449-8010",
     "Website": "thewaffler.com",
     "Offer": "takeout"
+  },
+  {
+    "Name": "What The Pho",
+    "Address": "10680 N.E. Eighth St., Bellevue",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-462-5600",
+    "Website": "whatthepho.net",
+    "Offer": "both"
+  },
+  {
+    "Name": "Xiao Chi Jie",
+    "Address": "278 106th Ave. N.E., Bellevue",
+    "Neighborhood": "Bellevue",
+    "Phone": "425-598-2184",
+    "Website": "thexcj.com",
+    "Offer": "both"
   },
   {
     "Name": "Yoroshiku",
@@ -389,6 +725,14 @@
     "Neighborhood": "Belltown",
     "Phone": "206-448-2233",
     "Website": "bangbangseattle.com/cafe",
+    "Offer": "both"
+  },
+  {
+    "Name": "Bangrak Market",
+    "Address": "2319 Second Ave., Seattle",
+    "Neighborhood": "Belltown",
+    "Phone": "206-735-7352",
+    "Website": "bangrakmarket.com",
     "Offer": "both"
   },
   {
@@ -416,6 +760,14 @@
     "Offer": "both"
   },
   {
+    "Name": "G.H. Pasta",
+    "Address": "2305 Sixth Ave., Seattle",
+    "Neighborhood": "Belltown",
+    "Phone": "206-402-6210",
+    "Website": "ghpastaseattle.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Jerk Shack",
     "Address": "2510 First Ave., Seattle",
     "Neighborhood": "Belltown",
@@ -440,11 +792,35 @@
     "Offer": "both"
   },
   {
+    "Name": "Local Pho",
+    "Address": "2230 Third Ave., Seattle",
+    "Neighborhood": "Belltown",
+    "Phone": "206-441-5885",
+    "Website": "yelp.to/qTKq/5yhq0P0Kf5",
+    "Offer": "both"
+  },
+  {
     "Name": "Petra Mediterranean Bistro",
     "Address": "2501 Fourth Ave., Seattle",
     "Neighborhood": "Belltown",
     "Phone": "206-728-5389",
     "Website": "petrabistro.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Rocco's Pizza",
+    "Address": "2228 Second Ave., Seattle",
+    "Neighborhood": "Belltown",
+    "Phone": "206-448-2625",
+    "Website": "roccosseattle.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Shaker & Spear",
+    "Address": "2000 Second Ave., Seattle",
+    "Neighborhood": "Belltown ",
+    "Phone": "206-826-1700",
+    "Website": "shakerandspear.com",
     "Offer": "both"
   },
   {
@@ -464,11 +840,51 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Spice Up",
+    "Address": "305 Bell St., Seattle",
+    "Neighborhood": "Belltown",
+    "Phone": "206-728-2551",
+    "Website": "spiceupszechuan.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Taqueria Cantina",
     "Address": "2630 First Ave., Seattle",
     "Neighborhood": "Belltown",
     "Phone": "206-995-8588",
     "Website": "taqueriacantina.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Ti22",
+    "Address": "2510 Fourth Ave., Seattle",
+    "Neighborhood": "Belltown",
+    "Phone": "206-453-4090",
+    "Website": "ti22belltown.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Umi Sake House",
+    "Address": "2230 First Ave., Seattle",
+    "Neighborhood": "Belltown",
+    "Phone": "206-374-8717",
+    "Website": "umisakehouse.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Villa Escondida",
+    "Address": "2203 First Ave., Seattle",
+    "Neighborhood": "Belltown",
+    "Phone": "206-448-2393",
+    "Website": "villaescondidaseattle.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Wann Japanese Izakaya ",
+    "Address": "2020 Second Ave., Seattle ",
+    "Neighborhood": "Belltown",
+    "Phone": "206-441-5637",
+    "Website": "wann-izakaya.com",
     "Offer": "both"
   },
   {
@@ -480,11 +896,83 @@
     "Offer": "both"
   },
   {
+    "Name": "Amaro Bistro",
+    "Address": "18333 Bothell Way N.E., Bothell",
+    "Neighborhood": "Bothell",
+    "Phone": "425-485-2300",
+    "Website": "amarorestaurant.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Beardslee Public House",
+    "Address": "19116 Beardslee Blvd., Seattle",
+    "Neighborhood": "Bothell",
+    "Phone": "425-286-1001",
+    "Website": "beardsleeph.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "The Cottage",
+    "Address": "10029 N.E. 183rd St., Bothell",
+    "Neighborhood": "Bothell",
+    "Phone": "425-286-6332",
+    "Website": "thecottagebothell.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Grazie Ristorante ",
+    "Address": "23207 Bothell Everett Hwy., Bothell",
+    "Neighborhood": "Bothell",
+    "Phone": "425-402-9600",
+    "Website": "grazierestaurant.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Inchin’s Bamboo Garden ",
+    "Address": "22010 17th Ave. S.E., Bothell ",
+    "Neighborhood": "Bothell",
+    "Phone": "425-483-4594",
+    "Website": "bamboo-gardens.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Julio's Restaurant",
+    "Address": "10023 N.E. 183rd St., Bothell",
+    "Neighborhood": "Bothell",
+    "Phone": "425-485-1769",
+    "Website": "juliorestaurant.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Russell's",
     "Address": "3305 Monte Villa Pkwy., Bothell",
     "Neighborhood": "Bothell",
     "Phone": "425-892-8492",
     "Website": "russelllowell.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Samburna",
+    "Address": "20806 Bothell Everett Hwy. Unit 100, Bothell",
+    "Neighborhood": "Bothell",
+    "Phone": "425-408-1368",
+    "Website": "samburna.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Sparta's Pizza",
+    "Address": "18817 Bothell Way N.E., Seattle",
+    "Neighborhood": "Bothell",
+    "Phone": "425-485-1227",
+    "Website": "spartaspizza.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Sushi Chinoise",
+    "Address": "19122 Beardslee Blvd. Ste. 201, Bothell",
+    "Neighborhood": "Bothell",
+    "Phone": "425-402-0200",
+    "Website": "sushichinoise.com",
     "Offer": "takeout"
   },
   {
@@ -504,6 +992,22 @@
     "Offer": "both"
   },
   {
+    "Name": "Saltoro",
+    "Address": "14051 Greenwood Ave. N., Seattle",
+    "Neighborhood": "Broadview",
+    "Phone": "206-365-6025",
+    "Website": "saltoroseattle.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Sweet Wheels Ice Cream Sandwiches ",
+    "Address": "1714 N. 44th St., Seattle ",
+    "Neighborhood": "Broadview",
+    "Phone": "206-353-1293",
+    "Website": "sweetwheels.net",
+    "Offer": "delivery"
+  },
+  {
     "Name": "Bryant Corner Cafe",
     "Address": "3118 N.E. 65th St., Seattle",
     "Neighborhood": "Bryant",
@@ -520,12 +1024,36 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Yummy Cafe",
+    "Address": "4008 N.E. 55th St., Seattle",
+    "Neighborhood": "Bryant",
+    "Phone": "206-528-0570",
+    "Website": "yummycaferestaurant.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Australian Pie Co.",
     "Address": "425 S.W. 152nd St., Burien",
     "Neighborhood": "Burien",
     "Phone": "206-243-4138",
     "Website": "australianpieco.com",
     "Offer": "both"
+  },
+  {
+    "Name": "Casa Durango",
+    "Address": "17644 First Ave. S., Burien",
+    "Neighborhood": "Burien",
+    "Phone": "206-243-2260",
+    "Website": "mexicanfoodrenton.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Elliott Bay Brewhouse & Pub",
+    "Address": "255 S.W. 152nd St., Burien",
+    "Neighborhood": "Burien",
+    "Phone": "206-246-4211",
+    "Website": "elliottbaybrewing.com",
+    "Offer": "takeout"
   },
   {
     "Name": "Grand Central Bakery",
@@ -536,12 +1064,28 @@
     "Offer": "takeout"
   },
   {
+    "Name": "King Wha Restaurant",
+    "Address": "605 S.W. 152nd St., Burien",
+    "Neighborhood": "Burien",
+    "Phone": "206-243-0323",
+    "Website": "kingwha.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Krungthep Thai Cuisine",
     "Address": "13260 First Ave. S. Ste. A, Seattle",
     "Neighborhood": "Burien",
     "Phone": "206-829-9426",
     "Website": "krungthep-thai.com",
     "Offer": "both"
+  },
+  {
+    "Name": "Maven Meals",
+    "Address": "641 S.W. 152nd St., Burien",
+    "Neighborhood": "Burien",
+    "Phone": "206-557-7985",
+    "Website": "mavenmeals.com",
+    "Offer": "delivery"
   },
   {
     "Name": "Pizza Gallery",
@@ -560,11 +1104,27 @@
     "Offer": "both"
   },
   {
+    "Name": "Thai You Up",
+    "Address": "13456 First Ave. S., Burien",
+    "Neighborhood": "Burien",
+    "Phone": "206-503-2914",
+    "Website": "thaiuup.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Vince's Italian",
     "Address": "15223 4th Ave. S.W., Burien",
     "Neighborhood": "Burien",
     "Phone": "206-246-1497",
     "Website": "vincesrestaurants.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Ammi's Pakwan",
+    "Address": "510 Broadway E., Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-324-9449",
+    "Website": "ammispakwan.com",
     "Offer": "both"
   },
   {
@@ -576,11 +1136,27 @@
     "Offer": "takeout"
   },
   {
+    "Name": "B-Side Foods",
+    "Address": "421 E. Thomas St., Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-390-7670",
+    "Website": "bside.cool",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Ba Bar",
     "Address": "550 12th Ave., Seattle",
     "Neighborhood": "Capitol Hill",
     "Phone": "206-328-2030",
     "Website": "babarseattle.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Bar Cotto ",
+    "Address": "1546 15th Ave., Seattle",
+    "Neighborhood": "Capitol Hill ",
+    "Phone": "206-390-9404",
+    "Website": "barcottopizzeria.com",
     "Offer": "both"
   },
   {
@@ -590,6 +1166,22 @@
     "Phone": "206-324-0843",
     "Website": "facebook.com/pages/category/Ramen-Restaurant/Betsutenjin-Ramen-USA-112504659439834",
     "Offer": "takeout"
+  },
+  {
+    "Name": "Big Mario’s New York Style Pizza",
+    "Address": "1009 E. Pike St., Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-922-3875",
+    "Website": "bigmariosnewyorkpizza.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Blue Moon Burgers",
+    "Address": "515 Broadway E., Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-325-2000",
+    "Website": "bluemoonburgers.com",
+    "Offer": "both"
   },
   {
     "Name": "BOCA Restobar & Grill",
@@ -608,11 +1200,35 @@
     "Offer": "both"
   },
   {
+    "Name": "Carmelos Tacos",
+    "Address": "110 Summit Ave. E., Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-659-0159",
+    "Website": "yelp.com/biz/carmelos-tacos-seattle-2",
+    "Offer": "both"
+  },
+  {
+    "Name": "Cook Weaver",
+    "Address": "806 E. Roy St. Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-324-0599",
+    "Website": "cookweaver.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Cure Cocktail",
     "Address": "1641 Nagle Pl., Seattle",
     "Neighborhood": "Capitol Hill",
     "Phone": "206-568-5475",
     "Website": "curecocktail.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Deluxe Bar & Grill",
+    "Address": "625 Broadway E., Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-324-9697",
+    "Website": "deluxebarandgrill.com",
     "Offer": "both"
   },
   {
@@ -632,6 +1248,14 @@
     "Offer": "both"
   },
   {
+    "Name": "Dumpling Tzar",
+    "Address": "1630 12th Ave., Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-466-6561",
+    "Website": "dumplingtzar.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Due Cucina Italiana",
     "Address": "412 Broadway E., Seattle",
     "Neighborhood": "Capitol Hill",
@@ -640,12 +1264,20 @@
     "Offer": "both"
   },
   {
+    "Name": "El Farol",
+    "Address": "1467 E. Republican St., Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-325-9005",
+    "Website": "elfarolseattle.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Eltana",
     "Address": "1538 12th Ave., Seattle",
     "Neighborhood": "Capitol Hill",
     "Phone": "206-724-0660",
     "Website": "eltana.com",
-    "Offer": "takeout"
+    "Offer": "both"
   },
   {
     "Name": "Elysian Brewing",
@@ -662,6 +1294,14 @@
     "Phone": "206-320-7777",
     "Website": "fogonseattle.com",
     "Offer": "takeout"
+  },
+  {
+    "Name": "Footprint Wine Tap",
+    "Address": "1222 E. Madison St. Ste. C, Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-485-7175",
+    "Website": "footprintwine.com",
+    "Offer": "both"
   },
   {
     "Name": "Harry's Fine Foods",
@@ -688,8 +1328,16 @@
     "Offer": "both"
   },
   {
+    "Name": "Ikina Sushi",
+    "Address": "918 E. Pike St., Seattle",
+    "Neighborhood": "Capitol Hill ",
+    "Phone": "206-453-4441",
+    "Website": "yelp.com/biz/ikina-sushi-seattle",
+    "Offer": "both"
+  },
+  {
     "Name": "Jimmy's on Broadway",
-    "Address": "1100 Broadway Ave., Seattle",
+    "Address": "1100 Broadway, Seattle",
     "Neighborhood": "Capitol Hill",
     "Phone": "206-204-1188",
     "Website": "jimmysonbroadway.com",
@@ -728,6 +1376,14 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Liberty",
+    "Address": "517 15th Ave. E., Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-323-9898",
+    "Website": "libertybars.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Mamnoon",
     "Address": "1508 Melrose Ave., Seattle",
     "Neighborhood": "Capitol Hill",
@@ -758,6 +1414,38 @@
     "Phone": "206-324-0506",
     "Website": "mezcaleriaoaxaca.com",
     "Offer": "takeout"
+  },
+  {
+    "Name": "Olmstead",
+    "Address": "314 Broadway E., Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-55-74201",
+    "Website": "olmsteadseattle.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Ooink",
+    "Address": "1416 Harvard Ave., Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-568-7669",
+    "Website": "ooinkramen.com",
+    "Offer": "delivery"
+  },
+  {
+    "Name": "Osteria la Spiga",
+    "Address": "1429 12th Ave., Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-323-8881",
+    "Website": "laspiga.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Pinto Thai Bistro & Sushi Bar",
+    "Address": "408 Broadway E., Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-724-0559",
+    "Website": "pintobistro.com",
+    "Offer": "both"
   },
   {
     "Name": "Plum Bistro",
@@ -856,6 +1544,14 @@
     "Offer": "both"
   },
   {
+    "Name": "Tamari Bar",
+    "Address": "500 E. Pine St., Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-979-8800",
+    "Website": "tamaribarseattle.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Taurus Ox",
     "Address": "1523 E. Madison St. Ste. 101, Seattle",
     "Neighborhood": "Capitol Hill",
@@ -869,6 +1565,22 @@
     "Neighborhood": "Capitol Hill",
     "Phone": "206-420-8355",
     "Website": "ethanstowellrestaurants.com/locations/tavolata-capitol-hill",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Taylor Shellfish",
+    "Address": "1521 Melrose Ave., Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-501-4321",
+    "Website": "taylorshellfishfarms.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Teriyaki & Wok",
+    "Address": "324 Broadway E., Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-709-9888",
+    "Website": "teriyakiandwok.com",
     "Offer": "takeout"
   },
   {
@@ -912,12 +1624,52 @@
     "Offer": "both"
   },
   {
+    "Name": "Carnation Cafe",
+    "Address": "4760 Tolt Ave., Carnation",
+    "Neighborhood": "Carnation",
+    "Phone": "425-333-4304",
+    "Website": "carnationcafe.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Adey Abeba Ethiopian Restaurant",
+    "Address": "2123 E. Union St., Seattle",
+    "Neighborhood": "Central District",
+    "Phone": "206-322-1617",
+    "Website": "adeyabeba.net",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Central Cafe & Juice Bar",
+    "Address": "2509 East Cherry St., Seattle",
+    "Neighborhood": "Central District",
+    "Phone": "206-538-0380",
+    "Website": "centralcafeseattle.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Central Pizza",
     "Address": "2901 S. Jackson St., Seattle",
     "Neighborhood": "Central District",
     "Phone": "206-602-6333",
     "Website": "centralpizzaseattle.com",
     "Offer": "both"
+  },
+  {
+    "Name": "Hi Spot Cafe",
+    "Address": "1410 34th Ave. S., Seattle",
+    "Neighborhood": "Central District",
+    "Phone": "206-325-7905",
+    "Website": "hispotcafe.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Peloton Cafe Bike Shop",
+    "Address": "1220 E. Jefferson St., Seattle",
+    "Neighborhood": "Central District",
+    "Phone": "206-569-4265",
+    "Website": "pelotonseattle.com",
+    "Offer": "takeout"
   },
   {
     "Name": "Pho Hai Yen",
@@ -933,6 +1685,22 @@
     "Neighborhood": "Central District",
     "Phone": "206-329-5499",
     "Website": "recklessnoodles.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Saffron Spice",
+    "Address": "1901 Rainier Ave. S., Seattle",
+    "Neighborhood": "Central District",
+    "Phone": "206-325-5332",
+    "Website": "saffronspiceseattle.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Seattle Fish Guys",
+    "Address": "411 23rd Ave., Seattle",
+    "Neighborhood": "Central District",
+    "Phone": "206-485-7388",
+    "Website": "seattlefishguys.com",
     "Offer": "takeout"
   },
   {
@@ -968,11 +1736,27 @@
     "Offer": "both"
   },
   {
+    "Name": "663 Bistro",
+    "Address": "663 S. Weller St., Seattle",
+    "Neighborhood": "Chinatown International District",
+    "Phone": "206-667-8760",
+    "Website": "663bistro.com",
+    "Offer": "both"
+  },
+  {
     "Name": "A+ Hong Kong Kitchen",
     "Address": "419 Sixth Ave. S., Seattle",
     "Neighborhood": "Chinatown International District",
     "Phone": "206-682-1267",
     "Website": "facebook.com/aplushkkitchen",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Ambrosia Cafe",
+    "Address": "619 S. King St., Seattle",
+    "Neighborhood": "Chinatown International District",
+    "Phone": "206-623-9028",
+    "Website": "facebook.com/ambrosiacafeseattle",
     "Offer": "takeout"
   },
   {
@@ -984,11 +1768,67 @@
     "Offer": "both"
   },
   {
+    "Name": "Blackball Taiwanese Dessert",
+    "Address": "651 S. King St., Seattle",
+    "Neighborhood": "Chinatown International District",
+    "Phone": "206-538-0596",
+    "Website": "blackball.com.tw",
+    "Offer": "both"
+  },
+  {
+    "Name": "Bun & Oc",
+    "Address": "1306 S. King St., Seattle",
+    "Neighborhood": "Chinatown International District",
+    "Phone": "206-860-1556",
+    "Website": "facebook.com/bunvsocseattle",
+    "Offer": "both"
+  },
+  {
+    "Name": "Cake House My Favorite",
+    "Address": "620 S. Weller St., Seattle",
+    "Neighborhood": "Chinatown International District",
+    "Phone": "206-233-2766",
+    "Website": "yelp.com/biz/cake-house-seattle",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Chu Minh Tofu",
+    "Address": "1043 S. Jackson St., Seattle",
+    "Neighborhood": "Chinatown International District",
+    "Phone": "‭206-723-6095‬",
+    "Website": "chuminhtofu.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Crawfish King",
     "Address": "725 S. Lane St., Seattle",
     "Neighborhood": "Chinatown International District",
     "Phone": "206-623-3622",
     "Website": "crawfishkingwa.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Dong Thap Noodles",
+    "Address": "303 12th Ave. S., Seattle",
+    "Neighborhood": "Chinatown International District",
+    "Phone": "206-325-1122",
+    "Website": "facebook.com/dongthapnoodles",
+    "Offer": "both"
+  },
+  {
+    "Name": "Eastern Cafe",
+    "Address": "510 Maynard Ave. S., Seattle",
+    "Neighborhood": "Chinatown International District",
+    "Phone": "206-623-1776",
+    "Website": "cafeeastern.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Ferry Noodle House",
+    "Address": "93 Marion St., Seattle",
+    "Neighborhood": "Chinatown International District",
+    "Phone": "206-262-9965",
+    "Website": "ferrynoodlehousethai.com",
     "Offer": "both"
   },
   {
@@ -1016,6 +1856,14 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Fuji Sushi",
+    "Address": "520 S. Main St., Seattle",
+    "Neighborhood": "Chinatown International District",
+    "Phone": "206-624-1201",
+    "Website": "fujisushiseattle.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Harbor City",
     "Address": "707 S. King St., Seattle",
     "Neighborhood": "Chinatown International District",
@@ -1037,6 +1885,14 @@
     "Neighborhood": "Chinatown International District",
     "Phone": "206-682-1922",
     "Website": "hongkongbistroseattle.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Humble Pie",
+    "Address": "525 Rainier Ave S., Seattle",
+    "Neighborhood": "Chinatown International District",
+    "Phone": "206-329-5133",
+    "Website": "humblepieseattle.com",
     "Offer": "both"
   },
   {
@@ -1072,6 +1928,22 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Mi La Cay",
+    "Address": "212 12th Ave. S., Seattle",
+    "Neighborhood": "Chinatown International District",
+    "Phone": "206-322-6840",
+    "Website": "seattlemilacay.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Phnom Penh Noodle House",
+    "Address": "913 S. Jackson St. Ste. A, Seattle",
+    "Neighborhood": "Chinatown International District",
+    "Phone": "206-748-9825",
+    "Website": "facebook.com/phnompenh.noodlehouse.5",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Purple Dot Cafe",
     "Address": "515 Maynard Ave. S., Seattle",
     "Neighborhood": "Chinatown International District",
@@ -1104,6 +1976,14 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Tamarind Tree",
+    "Address": "1036 S. Jackson St., Seattle",
+    "Neighborhood": "Chinatown International District",
+    "Phone": "206-860-1404",
+    "Website": "tamarindtreerestaurant.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Tsukushinbo",
     "Address": "515 S. Main St., Seattle",
     "Neighborhood": "Chinatown International District",
@@ -1120,6 +2000,14 @@
     "Offer": "both"
   },
   {
+    "Name": "Bananas Grill",
+    "Address": "4556 Martin Luther King Jr. Way S., Seattle",
+    "Neighborhood": "Columbia City",
+    "Phone": "206-420-4839",
+    "Website": "bananagrillseattle.com",
+    "Offer": "both"
+  },
+  {
     "Name": "City Teriyaki",
     "Address": "5400 Rainier Ave. S., Seattle",
     "Neighborhood": "Columbia City",
@@ -1128,19 +2016,11 @@
     "Offer": "both"
   },
   {
-    "Name": "Delish Ethiopian Cuisine",
-    "Address": "5701 Rainier Ave. S., Seattle",
-    "Neighborhood": "Columbia City",
-    "Phone": "206-723-3821",
-    "Website": "delishethiopianfood.com",
-    "Offer": "both"
-  },
-  {
     "Name": "El Sombrero Family Mexican Restaurant",
     "Address": "4868 Rainier Ave. S. Seattle, Wa. 98118",
     "Neighborhood": "Columbia City",
     "Phone": "206-722-1717",
-    "Website": "Postmates, Uber Eats, DOORDASH and GRUBHUB",
+    "Website": "elsombreroseattle.com",
     "Offer": "takeout"
   },
   {
@@ -1168,12 +2048,44 @@
     "Offer": "both"
   },
   {
+    "Name": "Taproot Cafe & Bar",
+    "Address": "4908 Rainier Ave. S. Ste. A, Seattle",
+    "Neighborhood": "Columbia City",
+    "Phone": "206-420-2535",
+    "Website": "taprootseattle.com",
+    "Offer": "both"
+  },
+  {
     "Name": "The Comfort Zone",
     "Address": "5016 Rainier Ave. S., Seattle",
     "Neighborhood": "Columbia City",
     "Phone": "206-246-2800",
     "Website": "ecomfortzonesoulfood.com",
     "Offer": "both"
+  },
+  {
+    "Name": "Four Spoons Cafe",
+    "Address": "206-297-6384",
+    "Neighborhood": "Crown Hill",
+    "Phone": "206-297-6384",
+    "Website": "fourspoonscafe.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Thai Siam",
+    "Address": "8305 15th Ave. N.W., Seattle",
+    "Neighborhood": "Crown Hill",
+    "Phone": "206-783-3668",
+    "Website": "thaisiamrestaurant.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "The Dane",
+    "Address": "8000 15th Ave. N.W., Seattle",
+    "Neighborhood": "Crown Hill",
+    "Phone": "206-297-4441",
+    "Website": "thedaneseattle.com",
+    "Offer": "takeout"
   },
   {
     "Name": "Wild Mountain Cafe",
@@ -1208,11 +2120,27 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Tuscany at Des Moines Creek",
+    "Address": "21830 Marine View Dr. S., Des Moines",
+    "Neighborhood": "Des Moines",
+    "Phone": "206-878-3855",
+    "Website": "facebook.com/TuscanyAtDesMoinesCreek",
+    "Offer": "both"
+  },
+  {
     "Name": "via Marina Wood Fired Pizza & Italian Cafe",
     "Address": "22636 Marine View Dr. S., Des Moines",
     "Neighborhood": "Des Moines",
     "Phone": "206-592-2659",
     "Website": "vincesrestaurants.com/via-marina",
+    "Offer": "both"
+  },
+  {
+    "Name": "Wally's Chowderhouse",
+    "Address": "22531 Marine View Dr. S., Des Moines",
+    "Neighborhood": "Des Moines",
+    "Phone": "206-878-8140",
+    "Website": "wallysrestaurants.com",
     "Offer": "both"
   },
   {
@@ -1224,12 +2152,44 @@
     "Offer": "both"
   },
   {
+    "Name": "All Water Seafood & Oyster Bar",
+    "Address": "1000 First Ave., Seatle (Lowes Hotel 1000)",
+    "Neighborhood": "Downtown",
+    "Phone": "206-357-9000",
+    "Website": "allwaterseattle.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Ben Paris",
     "Address": "130 Pike St., Seattle",
     "Neighborhood": "Downtown",
     "Phone": "206-513-7303",
     "Website": "benparis.com",
     "Offer": "takeout"
+  },
+  {
+    "Name": "Cutters Crabhouse",
+    "Address": "2001 Western Ave., Seattle",
+    "Neighborhood": "Downtown",
+    "Phone": "206-448-4884",
+    "Website": "cutterscrabhouse.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Din Tai Fung",
+    "Address": "600 Pine St. #403, Seattle",
+    "Neighborhood": "Downtown ",
+    "Phone": "206-682-9888",
+    "Website": "dintaifungusa.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "El Borracho ",
+    "Address": "1521 First Ave., Seattle",
+    "Neighborhood": "Downtown",
+    "Phone": "206-538-0440",
+    "Website": "elborracho.co",
+    "Offer": "both"
   },
   {
     "Name": "Genghis Khan Chinese Restaurant",
@@ -1254,6 +2214,14 @@
     "Phone": "206-624-3287",
     "Website": "themetropolitangrill.com",
     "Offer": "both"
+  },
+  {
+    "Name": "Owl N' Thistle",
+    "Address": "808 Post Ave., Seattle",
+    "Neighborhood": "Downtown",
+    "Phone": "206-621-7777",
+    "Website": "owlnthistle.com",
+    "Offer": "takeout"
   },
   {
     "Name": "Rubinstein Bagels",
@@ -1304,6 +2272,22 @@
     "Offer": "both"
   },
   {
+    "Name": "Duvall Grill and Taproom",
+    "Address": "15602 Main St. N.E., Duvall",
+    "Neighborhood": "Duvall",
+    "Phone": "425-844-1430",
+    "Website": "duvallgrill.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "The Grange",
+    "Address": "15611 Main St. N.E., Duvall",
+    "Neighborhood": "Duvall",
+    "Phone": "425-788-2095",
+    "Website": "thegrangeduvall.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Swift and Savory",
     "Address": "15505 Main St. N.E., Duvall",
     "Neighborhood": "Duvall",
@@ -1320,12 +2304,28 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Cicchetti",
+    "Address": "121 E. Boston St., Seattle",
+    "Neighborhood": "Eastlake ",
+    "Phone": "206-323-0807",
+    "Website": "cicchettiseattle.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Grand Central Bakery",
     "Address": "1616 Eastlake Ave. E., Seattle",
     "Neighborhood": "Eastlake",
     "Phone": "206-957-9505",
     "Website": "grandcentralbakery.com",
     "Offer": "takeout"
+  },
+  {
+    "Name": "Johnny Mo's",
+    "Address": "272 Fuhrman Ave. E. Ste. 100,  Seattle",
+    "Neighborhood": "Eastlake",
+    "Phone": "206-822-6272",
+    "Website": "johnnymos.com",
+    "Offer": "both"
   },
   {
     "Name": "Le Messe",
@@ -1344,6 +2344,14 @@
     "Offer": "both"
   },
   {
+    "Name": "Otter Bar and Burger",
+    "Address": "2379 Eastlake Ave. E., Seattle",
+    "Neighborhood": "Eastlake",
+    "Phone": "206-906-9401",
+    "Website": "otterbarandburger.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Pazzo's",
     "Address": "2307 Eastlake Ave. E., Seattle",
     "Neighborhood": "Eastlake",
@@ -1360,6 +2368,22 @@
     "Offer": "both"
   },
   {
+    "Name": "Sebi’s Bistro",
+    "Address": "3242 Eastlake Ave. E., Seattle",
+    "Neighborhood": "Eastlake",
+    "Phone": "206-420-2199",
+    "Website": "sebisbistro.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Serafina ",
+    "Address": "2043 Eastlake Ave. E., Seattle",
+    "Neighborhood": "Eastlake",
+    "Phone": "206-323-0807",
+    "Website": "serafinaseattle.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Sushi Kappo Tamura",
     "Address": "2968 Eastlake Ave. E., Seattle",
     "Neighborhood": "Eastlake",
@@ -1368,11 +2392,43 @@
     "Offer": "both"
   },
   {
+    "Name": "76 Bistro",
+    "Address": "18401 76th Ave. W., Edmonds",
+    "Neighborhood": "Edmonds",
+    "Phone": "425-776-3616",
+    "Website": "bistro76kitchen.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Anthony's Beach Cafe",
     "Address": "456 Admiral Way, Edmonds",
     "Neighborhood": "Edmonds",
     "Phone": "425-771-4400",
     "Website": "anthonys.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Bar Dojo",
+    "Address": "8404 Bowdoin Way, Edmonds",
+    "Neighborhood": "Edmonds",
+    "Phone": "425-967-7267",
+    "Website": "bardojo.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "ChurchKey Pub",
+    "Address": "109 Fourth Ave. N., Edmonds",
+    "Neighborhood": "Edmonds",
+    "Phone": "425-835-0230",
+    "Website": "churchkeypub.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Hosoonyi",
+    "Address": "23830 Hwy. 99 #114, Edmonds",
+    "Neighborhood": "Edmonds",
+    "Phone": "425-775-8196",
+    "Website": "yelp.com/biz/hosoonyi-korean-restaurant-edmonds",
     "Offer": "takeout"
   },
   {
@@ -1384,11 +2440,27 @@
     "Offer": "takeout"
   },
   {
+    "Name": "SanKai",
+    "Address": "111 Fourth Ave. N., Edmonds",
+    "Neighborhood": "Edmonds",
+    "Phone": "425-412-3417",
+    "Website": "sankaisushi.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Scott’s Bar & Grill",
     "Address": "8115 Lake Ballinger Way, Edmonds",
     "Neighborhood": "Edmonds",
     "Phone": "425-775-2561",
     "Website": "scottsbarandgrill.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Spud Fish and Chips",
+    "Address": "174 Sunset Ave. S., Edmonds",
+    "Neighborhood": "Edmonds",
+    "Phone": "425-678-0984",
+    "Website": "spudfishandchips.com",
     "Offer": "both"
   },
   {
@@ -1400,6 +2472,14 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Raging River Cafe",
+    "Address": "33723 S.E. Redmond Fall City Rd., Fall City ",
+    "Neighborhood": "Fall City",
+    "Phone": "425-222-6669",
+    "Website": "ragingrivercafe.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Roadhouse Restaurant and Inn (Fall City)",
     "Address": "4200 Preston Fall City Rd S.E., Fall City",
     "Neighborhood": "Fall City",
@@ -1408,11 +2488,51 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Billy McHale's",
+    "Address": "1320 S. 324th St. Ste. A10, Federal Way",
+    "Neighborhood": "Federal Way",
+    "Phone": "253-839-4200",
+    "Website": "billymchales.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "The Chopped Leaf",
+    "Address": "35002 Pacific Hwy. S. A-103, Federal Way",
+    "Neighborhood": "Federal Way",
+    "Phone": "253-642-7551",
+    "Website": "choppedleaf.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "East India Grill ",
+    "Address": "31845 Gateway Center Blvd. S., Federal Way  ",
+    "Neighborhood": "Federal Way ",
+    "Phone": "253-529-9292",
+    "Website": "eastindiagrillwa.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Jimmy Mac's Roadhouse",
+    "Address": "34902 Pacific Hwy. S., Federal Way",
+    "Neighborhood": "Federal Way",
+    "Phone": "253-874-6000",
+    "Website": "jimmymacsroadhouse.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Pac Island Grill",
     "Address": "2012 S. 320th St. Ste. H, Federal Way",
     "Neighborhood": "Federal Way",
     "Phone": "253-529-8667",
     "Website": "hawaiianstylebbq.net",
+    "Offer": "both"
+  },
+  {
+    "Name": "Sub Zero Nitrogen Ice Cream",
+    "Address": "31653 Pacific Hwy. S. Ste. A, Federal Way",
+    "Neighborhood": "Federal Way",
+    "Phone": "253-941-3248",
+    "Website": "subzeroicecream.com",
     "Offer": "both"
   },
   {
@@ -1438,6 +2558,14 @@
     "Phone": "206-900-8699",
     "Website": "restaurantbateau.com",
     "Offer": "takeout"
+  },
+  {
+    "Name": "Bonchon",
+    "Address": "554 Broadway, Seattle",
+    "Neighborhood": "First Hill",
+    "Phone": "206-420-8225",
+    "Website": "bonchon.com",
+    "Offer": "both"
   },
   {
     "Name": "Little Neon Taco",
@@ -1488,6 +2616,22 @@
     "Offer": "both"
   },
   {
+    "Name": "Dumpling Tzar",
+    "Address": "3516 Fremont Pl., Seattle",
+    "Neighborhood": "Fremont",
+    "Phone": "206-588-2570",
+    "Website": "dumplingtzar.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "El Camino",
+    "Address": "607 N. 35th St., Seattle",
+    "Neighborhood": "Fremont",
+    "Phone": "206-632-7303",
+    "Website": "elcaminorestaurant.com",
+    "Offer": "both"
+  },
+  {
     "Name": "El Legendario",
     "Address": "4705 Aurora Ave. N., Seattle",
     "Neighborhood": "Fremont",
@@ -1504,11 +2648,27 @@
     "Offer": "both"
   },
   {
+    "Name": "Eve Fremont ",
+    "Address": "704 N. 34th St.",
+    "Neighborhood": "Fremont",
+    "Phone": "206-900-7186",
+    "Website": "evefremont.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Frelard Pizza Co.",
     "Address": "4010 Leary Way N.W., Seattle",
     "Neighborhood": "Fremont",
     "Phone": "206-946-9966",
     "Website": "ethanstowellrestaurants.com/order",
+    "Offer": "both"
+  },
+  {
+    "Name": "Fremont Bowl",
+    "Address": "4258 Fremont Ave. N. Ste. 4262, Seattle",
+    "Neighborhood": "Fremont",
+    "Phone": "206-504-3095",
+    "Website": "fremontbowl.com",
     "Offer": "both"
   },
   {
@@ -1592,12 +2752,28 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Red Star Taco Bar",
+    "Address": "513 N. 36th St., Seattle",
+    "Neighborhood": "Fremont ",
+    "Phone": "206-258-3087",
+    "Website": "redstartacobar.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Revel",
     "Address": "401 N. 36th St., Seattle",
     "Neighborhood": "Fremont",
     "Phone": "206-547-2040",
     "Website": "www.revelseattle.com",
     "Offer": "both"
+  },
+  {
+    "Name": "Ripe Catering",
+    "Address": "3518 Fremont Pl. N., Seattle",
+    "Neighborhood": "Fremont",
+    "Phone": "206-293-5492",
+    "Website": "ripecatering.com",
+    "Offer": "delivery"
   },
   {
     "Name": "RoRo BBQ",
@@ -1624,6 +2800,14 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Silence-Heart-Nest",
+    "Address": "3508 Fremont Place N., Seattle",
+    "Neighborhood": "Fremont",
+    "Phone": "206-633-5169",
+    "Website": "silenceheartnest.com",
+    "Offer": "both"
+  },
+  {
     "Name": "The Dock Sports Bar and Grill",
     "Address": "1102 N. 34th St., Seattle",
     "Neighborhood": "Fremont",
@@ -1640,11 +2824,27 @@
     "Offer": "both"
   },
   {
+    "Name": "Triangle Spirits",
+    "Address": "3507 Fremont Pl. N., Seattle",
+    "Neighborhood": "Fremont ",
+    "Phone": "206-632-0880",
+    "Website": "trianglefremont.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Uneeda Burger",
     "Address": "4302 Fremont Ave. N., Seattle",
     "Neighborhood": "Fremont",
     "Phone": "206-547-2600",
     "Website": "uneedaburger.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "The Corson Building",
+    "Address": "5609 Corson Ave. S., Seattle",
+    "Neighborhood": "Georgetown",
+    "Phone": "206-762-3330",
+    "Website": "thecorsonbuilding.com",
     "Offer": "takeout"
   },
   {
@@ -1680,6 +2880,38 @@
     "Offer": "both"
   },
   {
+    "Name": "WithStyle Catering",
+    "Address": "",
+    "Neighborhood": "Georgetown ",
+    "Phone": "253-202-4673",
+    "Website": "withstylecatering.com ",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Bongos Cafe",
+    "Address": "6501 Aurora Ave. N.,  Seattle",
+    "Neighborhood": "Green Lake",
+    "Phone": "206-420-8548",
+    "Website": "bongosseattle.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Casa Patron",
+    "Address": "805 N.E. 65th St., Seattle",
+    "Neighborhood": "Green Lake",
+    "Phone": "206-923-7680",
+    "Website": "facebook.com/casapatronseattle",
+    "Offer": "both"
+  },
+  {
+    "Name": "Eight Row",
+    "Address": "7102 Woodlawn Ave. N.E., Seattle",
+    "Neighborhood": "Green Lake",
+    "Phone": "206-294-3178",
+    "Website": "eightrow.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Frelard Tamales",
     "Address": "6412 Latona Ave. N.E., Seattle",
     "Neighborhood": "Green Lake",
@@ -1696,12 +2928,36 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Mykonos Greek Grill",
+    "Address": "310 N.E. 72nd St., Seattle",
+    "Neighborhood": "Green Lake",
+    "Phone": "206-523-8929",
+    "Website": "mykonosgreenlake.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Retreat",
     "Address": "6900 East Green Lake Way N., Seattle",
     "Neighborhood": "Green Lake",
     "Phone": "206-694-3045",
     "Website": "retreat-greenlake.com",
     "Offer": "takeout"
+  },
+  {
+    "Name": "The Shelter Green Lake",
+    "Address": "7110 E. Green Lake Dr. N., Seattle",
+    "Neighborhood": "Green Lake ",
+    "Phone": "206-420-7452",
+    "Website": "shelterlounge.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Banh Town",
+    "Address": "10414 Holman Rd. N., Seattle",
+    "Neighborhood": "Greenwood",
+    "Phone": "206-257-4254",
+    "Website": "banhtown.com",
+    "Offer": "both"
   },
   {
     "Name": "Charming Siam",
@@ -1728,11 +2984,35 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Flying Bike Cooperative Brewery",
+    "Address": "8570 Greenwood Ave. N., Seattle",
+    "Neighborhood": "Greenwood",
+    "Phone": "206-428-7709",
+    "Website": "flyingbike.coop",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Gainsbourg",
     "Address": "8550 Greenwood Ave. N., Seattle",
     "Neighborhood": "Greenwood",
     "Phone": "206-783-4004",
     "Website": "gainsbourglounge.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Gorgeous George's",
+    "Address": "7719 Greenwood Ave. N., Seattle",
+    "Neighborhood": "Greenwood",
+    "Phone": "206-783-0116",
+    "Website": "georgeousgeorges.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Kalia",
+    "Address": "8518 Greenwood Ave. N., Seattle",
+    "Neighborhood": "Greenwood",
+    "Phone": "206-782-789",
+    "Website": "kaliacuisine.com",
     "Offer": "takeout"
   },
   {
@@ -1750,6 +3030,14 @@
     "Phone": "206-245-1089",
     "Website": "mendozasmexicanmercado.com",
     "Offer": "takeout"
+  },
+  {
+    "Name": "The Olive and Grape",
+    "Address": "8516 Greenwood Ave. N., Seattle",
+    "Neighborhood": "Greenwood",
+    "Phone": "206-724-0272",
+    "Website": "theoliveandgrape.com",
+    "Offer": "both"
   },
   {
     "Name": "Razzi’s Pizza & Pasta",
@@ -1784,12 +3072,52 @@
     "Offer": "both"
   },
   {
+    "Name": "Amy's Merkato Ethiopian Restaurant & Deli",
+    "Address": "5710 Rainier Ave. S., Seattle",
+    "Neighborhood": "Hillman City",
+    "Phone": "206-324-2527",
+    "Website": "amysmerkato.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Delish Ethiopian Cuisine",
     "Address": "5701 Rainier Ave. S., Seattle",
     "Neighborhood": "Hillman City",
     "Phone": "206-723-3821",
     "Website": "delishethiopianfood.com",
     "Offer": "both"
+  },
+  {
+    "Name": "Twilight on Rainier",
+    "Address": "5609 Rainier Ave S., Seattle",
+    "Neighborhood": "Hillman City",
+    "Phone": "206-557-4437",
+    "Website": "facebook.com/twilightonrainier",
+    "Offer": "both"
+  },
+  {
+    "Name": "Caffe Appassionato Coffee Company",
+    "Address": "4001 21st. Ave. W., Seattle",
+    "Neighborhood": "Interbay",
+    "Phone": "206-281-8040",
+    "Website": "caffeappassionato.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Fuji Bakery",
+    "Address": "1030 Elliott Ave. W., Seattle",
+    "Neighborhood": "Interbay",
+    "Phone": "206-216-3616",
+    "Website": "fujibakeryinc.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "The Boarding House",
+    "Address": "317 N.W. Gilman Blvd. #7, Issaquah",
+    "Neighborhood": "Issaquah",
+    "Phone": "425-392-1100",
+    "Website": "yelp.com/biz/the-boarding-house-issaquah",
+    "Offer": "takeout"
   },
   {
     "Name": "Corner Bakery Cafe",
@@ -1800,11 +3128,83 @@
     "Offer": "both"
   },
   {
+    "Name": "El 42 Cantina",
+    "Address": "38 Front St. N., Issaquah ",
+    "Neighborhood": "Issaquah",
+    "Phone": "425-369-4772",
+    "Website": "el42cantina.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Fins Bistro ",
+    "Address": "301 Front St. N., Issaquah",
+    "Neighborhood": "Issaquah ",
+    "Phone": "425-392-0109",
+    "Website": "finsbistroissaquah.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Flat Iron Grill and The Black Duck Cask & Bottle",
+    "Address": "317 N.W. Gilman Blvd. #31-B, Issaquah",
+    "Neighborhood": "Issaquah",
+    "Phone": "425-395-7138",
+    "Website": "theblackduckcaskandbottle.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "JaK's Grill ",
+    "Address": "14 Front St. N., Issaquah",
+    "Neighborhood": "Issaquah",
+    "Phone": "425-837-8834",
+    "Website": "jaksgrill.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Just Poké",
+    "Address": "755 N.W. Gilman Blvd. Ste. D, Issaquah",
+    "Neighborhood": "Issaquah",
+    "Phone": "425-961-0250",
+    "Website": "justpoke.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Khao San Thai Cuisine",
+    "Address": "100 Front Street S., Issaquah",
+    "Neighborhood": "Issaquah",
+    "Phone": "425-651-8138",
+    "Website": "facebook.com/KhaoSanThaiCuisine",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Macky's Dim Sum",
+    "Address": "28 E. Sunset Way, Issaquah",
+    "Neighborhood": "Issaquah",
+    "Phone": "425-391-7200",
+    "Website": "facebook.com/mackysdimsum",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Malarky's Sports Grill",
     "Address": "1025 N.W. Gilman Blvd. Ste. 7, Issaquah",
     "Neighborhood": "Issaquah",
     "Phone": "425-392-6356",
     "Website": "malarkys.club",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Sunset Alehouse",
+    "Address": "20 Front St. S., Issaquah",
+    "Neighborhood": "Issaquah",
+    "Phone": "425-391-8395",
+    "Website": "sunsetalehouse.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Airways Bistro",
+    "Address": "320 W. Harrison St., Kent",
+    "Neighborhood": "Kent",
+    "Phone": "253-236-8632",
+    "Website": "airwaysbrewing.com",
     "Offer": "takeout"
   },
   {
@@ -1814,6 +3214,22 @@
     "Phone": "253-395-2777",
     "Website": "amantekent.com",
     "Offer": "both"
+  },
+  {
+    "Name": "BBQ Pete's ",
+    "Address": "6621 S. 211th St. Ste. 106, Kent",
+    "Neighborhood": "Kent",
+    "Phone": "425-251-0778",
+    "Website": "bbqpetes.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Curry and Kebab",
+    "Address": "10415 S.E. 240th St., Kent",
+    "Neighborhood": "Kent",
+    "Phone": "253-520-2440",
+    "Website": "currynkababkent.com",
+    "Offer": "takeout"
   },
   {
     "Name": "Paparepas",
@@ -1829,6 +3245,30 @@
     "Neighborhood": "Kirkland",
     "Phone": "425-828-2727, 425-827-3777",
     "Website": "acropolispizzapasta.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "The Box & Burgers Eatery",
+    "Address": "12305 120th Ave. N.E. Ste. C, Kirkland ",
+    "Neighborhood": "Kirkland",
+    "Phone": "425-821-0777",
+    "Website": "theboxonwheels.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Bungalow at Juanita Beach",
+    "Address": "9714 N.E. Juanita Dr., Kirkland",
+    "Neighborhood": "Kirkland",
+    "Phone": "425-307-1214",
+    "Website": "jbbungalow.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Cafe Bahar",
+    "Address": "11701 124th Ave. N.E., Kirkland",
+    "Neighborhood": "Kirkland",
+    "Phone": "425-823-8223",
+    "Website": "cafebaharseattle.com",
     "Offer": "both"
   },
   {
@@ -1856,12 +3296,44 @@
     "Offer": "both"
   },
   {
+    "Name": "Couzin's Cafe",
+    "Address": "12861 N.E. 85th St., Kirkland",
+    "Neighborhood": "Kirkland",
+    "Phone": "425-822-8803",
+    "Website": "couzinscafekirkland.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Deru",
     "Address": "723 Ninth Ave., Kirkland",
     "Neighborhood": "Kirkland",
     "Phone": "425-298-0268",
     "Website": "derumarket.com",
     "Offer": "takeout"
+  },
+  {
+    "Name": "Factory Donuts",
+    "Address": "12505 N.E. 144th St., Kirkland",
+    "Neighborhood": "Kirkland",
+    "Phone": "425-821-6140",
+    "Website": "yelp.com/biz/factory-donuts-kirkland",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "George’s",
+    "Address": "108 Kirkland Ave., Kirkland",
+    "Neighborhood": "Kirkland ",
+    "Phone": "425-827-6622",
+    "Website": "georgeskirkland.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Just Poké",
+    "Address": "117 Kirkland Ave. #117, Kirkland",
+    "Neighborhood": "Kirkland",
+    "Phone": "425-658-3387",
+    "Website": "justpoke.com",
+    "Offer": "both"
   },
   {
     "Name": "Le Grand Bistro Americain",
@@ -1872,11 +3344,27 @@
     "Offer": "takeout"
   },
   {
-    "Name": "The Box & Burgers Eatery",
-    "Address": "12305 120th Ave. N.E. Ste. C, Kirkland ",
+    "Name": "Lynn's Bistro",
+    "Address": "214 Central Way, Kirkland",
     "Neighborhood": "Kirkland",
-    "Phone": "425-821-0777",
-    "Website": "theboxonwheels.com",
+    "Phone": "425-889-2808",
+    "Website": "lynnsbistro.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Momoya Sushi",
+    "Address": "12100 N.E. 85th St. #8037, Kirkland",
+    "Neighborhood": "Kirkland",
+    "Phone": "425-889-9020",
+    "Website": "momoyasushikirkland.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Ristorante Paradiso",
+    "Address": "120 Park Ln., Kirkland",
+    "Neighborhood": "Kirkland",
+    "Phone": "425-889-8601",
+    "Website": "ristoranteparadiso.com",
     "Offer": "takeout"
   },
   {
@@ -1888,11 +3376,35 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Spicy Talk Bistro Chinese Szechuan Food",
+    "Address": "12305 120th Ave. N.E. Ste. H, Kirkland",
+    "Neighborhood": "Kirkland",
+    "Phone": "425-821-8898",
+    "Website": "spicytalkbistro.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Spud Fish and Chips",
+    "Address": "9702 N.E. Juanita Dr., Kirkland",
+    "Neighborhood": "Kirkland",
+    "Phone": "425-823-0607",
+    "Website": "spudfishandchips.com",
+    "Offer": "both"
+  },
+  {
     "Name": "The Slip",
     "Address": "80 Kirkland Ave., Kirkland",
     "Neighborhood": "Kirkland",
     "Phone": "425-739-0033",
     "Website": "theslip2.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Volterra",
+    "Address": "121 Kirkland Ave., Kirkland",
+    "Neighborhood": "Kirkland",
+    "Phone": "425-202-7201",
+    "Website": "volterrakirkland.com",
     "Offer": "takeout"
   },
   {
@@ -1904,11 +3416,51 @@
     "Offer": "both"
   },
   {
+    "Name": "2C Thai Bistro and Spirits",
+    "Address": "12506 Lake City Way N.E., Seattle",
+    "Neighborhood": "Lake City ",
+    "Phone": "206-739-5909",
+    "Website": "2CThai.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Aloha Ramen",
     "Address": "3004 N.E. 127th St., Seattle",
     "Neighborhood": "Lake City",
     "Phone": "206-838-3837",
     "Website": "facebook.com/aloharamenlakecity",
+    "Offer": "both"
+  },
+  {
+    "Name": "Beyond The Bowl",
+    "Address": "12518 Lake City Way N.E., Seattle",
+    "Neighborhood": "Lake City",
+    "Phone": "206-257-4489",
+    "Website": "beyondthebowl.net",
+    "Offer": "both"
+  },
+  {
+    "Name": "Elliott Bay Brewhouse & Pub",
+    "Address": "12537 Lake City Way N.E., Seattle",
+    "Neighborhood": "Lake City",
+    "Phone": "206-365-2337",
+    "Website": "elliottbaybrewing.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Heaven Sent Fried Chicken",
+    "Address": "14330 Lake City Way N.E., Seattle",
+    "Neighborhood": "Lake City",
+    "Phone": "206-363-1167",
+    "Website": "heavensentfriedchicken.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Kaffeeklatsch",
+    "Address": "12513 Lake City Way N.E. #H, Seattle",
+    "Neighborhood": "Lake City",
+    "Phone": "206-462-1059",
+    "Website": "kaffeeklatschseattle.com",
     "Offer": "both"
   },
   {
@@ -1920,6 +3472,70 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Villa Verdi",
+    "Address": "12360 Lake City Way N.E., Seattle ",
+    "Neighborhood": "Lake City",
+    "Phone": "206-361-1188",
+    "Website": "villaverdipizza.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Briley's BBQ Grill",
+    "Address": "15030 Bothell Way N.E., Seattle",
+    "Neighborhood": "Lake Forest Park",
+    "Phone": "206-466-1589",
+    "Website": "brileysbbq.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Everest Kitchen",
+    "Address": "17171 Bothell Way N.E., Seattle",
+    "Neighborhood": "Lake Forest Park",
+    "Phone": "206-440-0321",
+    "Website": "theeverestkitchen.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Lake Forest Bar and Grill",
+    "Address": "17535 Ballinger Way N.E., Lake Forest Park",
+    "Neighborhood": "Lake Forest Park",
+    "Phone": "206-364-1261",
+    "Website": "lakeforestbarandgrill.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "The Local 104",
+    "Address": "18498 Ballinger Way N.E.",
+    "Neighborhood": "Lake Forest Park",
+    "Phone": "206-954-8669",
+    "Website": "thelocal104.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "JaK's Grill ",
+    "Address": "3701 N.E. 45th St., Seattle",
+    "Neighborhood": "Laurelhurst",
+    "Phone": "206-985-8545",
+    "Website": "jaksgrill.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Marlai Fine Thai Cuisine",
+    "Address": "3719 N.E. 45th St., Seattle",
+    "Neighborhood": "Laurelhurst",
+    "Phone": "206-523-3200",
+    "Website": "marlaithai.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Uncle Lee’s Chinese",
+    "Address": "5408 Sand Point Way N.E., Seattle",
+    "Neighborhood": "Laurelhurst",
+    "Phone": "206-523-0772",
+    "Website": "uncleleeskitchen.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "BluWater Bistro - Leschi",
     "Address": "102 Lakeside Ave., Seattle",
     "Neighborhood": "Leschi",
@@ -1928,11 +3544,51 @@
     "Offer": "both"
   },
   {
+    "Name": "Budapest Bistro",
+    "Address": "12926 Mukilteo Speedway, Lynnwood",
+    "Neighborhood": "Lynnwood",
+    "Phone": "425-513-9846",
+    "Website": "yelp.com/biz/budapest-bistro-lynnwood",
+    "Offer": "both"
+  },
+  {
     "Name": "Chili Basil Thai Grill",
     "Address": "18505 Alderwood Mall Pkwy., Lynnwood",
     "Neighborhood": "Lynnwood",
     "Phone": "425-672-1155",
     "Website": "chilibasil.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Sparta's Pizza",
+    "Address": "17630 Hwy. 99, Lynnwood",
+    "Neighborhood": "Lynnwood",
+    "Phone": "425-745-1880",
+    "Website": "spartaspizza.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Yeh Yeh's",
+    "Address": "19915 64th Ave. W., Lynnwood",
+    "Neighborhood": "Lynnwood",
+    "Phone": "425-776-7213",
+    "Website": "yehyehs.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Arosa Cafe",
+    "Address": "3121 E. Madison St., Seattle",
+    "Neighborhood": "Madison Park ",
+    "Phone": "206-405-0605",
+    "Website": "arosacafe.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Bamboo Thai",
+    "Address": "1841 42nd Ave. E., Seattle",
+    "Neighborhood": "Madison Park",
+    "Phone": "206-324-6467",
+    "Website": "bamboo-thai.com",
     "Offer": "both"
   },
   {
@@ -1960,12 +3616,28 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Aglio E Olio",
+    "Address": "2743 E. Madison St., Seattle",
+    "Neighborhood": "Madison Valley",
+    "Phone": "206-709-8883",
+    "Website": "aeorestaurant.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Belle Epicurean Bakery",
     "Address": "3109 E. Madison St., Seattle",
     "Neighborhood": "Madison Valley",
     "Phone": "206-466-1320",
     "Website": "belleepicurean.com",
     "Offer": "takeout"
+  },
+  {
+    "Name": "Cafe Flora",
+    "Address": "2901 E. Madison St., Seattle",
+    "Neighborhood": "Madison Valley",
+    "Phone": "206-325-9100",
+    "Website": "cafeflora.com",
+    "Offer": "both"
   },
   {
     "Name": "Jae's Asian Bistro and Sushi",
@@ -1989,6 +3661,22 @@
     "Neighborhood": "Madison Valley",
     "Phone": "206-402-5698",
     "Website": "surrellseattle.com/togofoodandwine",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "El Ranchon",
+    "Address": "3416 W. McGraw St., Seattle",
+    "Neighborhood": "Magnolia",
+    "Phone": "206-281-9233",
+    "Website": "elranchonmagnolia.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Bistro Turkuaz",
+    "Address": "1114 34th Ave., Seattle",
+    "Neighborhood": "Madrona",
+    "Phone": "206-324-3039",
+    "Website": "bistroturkuazseattle.com",
     "Offer": "takeout"
   },
   {
@@ -2056,6 +3744,22 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Queen Margherita Pizzeria",
+    "Address": "3111 W. McGraw St., Seattle",
+    "Neighborhood": "Magnolia",
+    "Phone": "206-548-4908",
+    "Website": "queenmargheritaseattle.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Serendipity Cafe & Lounge",
+    "Address": "3222 W. McGraw St., Seattle",
+    "Neighborhood": "Magnolia",
+    "Phone": "206-282-9866",
+    "Website": "serendipitycafeandlounge.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Ban Hua Sai",
     "Address": "9400 Roosevelt Way N.E., Seattle",
     "Neighborhood": "Maple Leaf",
@@ -2064,11 +3768,27 @@
     "Offer": "both"
   },
   {
+    "Name": "Cafe Javasti",
+    "Address": "8410 Fifth Ave. N.E., Seattle",
+    "Neighborhood": "Maple Leaf",
+    "Phone": "206-985-9903",
+    "Website": "javasti.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Chiang’s Gourmet",
     "Address": "7845 Lake City Way N.E., Seattle",
     "Neighborhood": "Maple Leaf",
     "Phone": "206-527-8888",
     "Website": "chiangsgourmetseattle.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Don Lucho's Restaurant",
+    "Address": "7919 Roosevelt Way N.E., Seattle",
+    "Neighborhood": "Maple Leaf",
+    "Phone": "206-992-0232",
+    "Website": "donluchosinseattle.com",
     "Offer": "takeout"
   },
   {
@@ -2080,12 +3800,20 @@
     "Offer": "takeout"
   },
   {
-    "Name": "Snappy Dragon",
-    "Address": "8917 Roosevelt Way N.E., Seattle",
+    "Name": "The Growler Guys",
+    "Address": "8500 Lake City Way, Seattle",
     "Neighborhood": "Maple Leaf",
-    "Phone": "206-528-5575",
-    "Website": "snappydragon.com",
+    "Phone": "206-522-5227",
+    "Website": "thegrowlerguys.com",
     "Offer": "both"
+  },
+  {
+    "Name": "Himitsu Teriyaki",
+    "Address": "8014 Lake City Way N.E., Seattle",
+    "Neighborhood": "Maple Leaf",
+    "Phone": "206-524-9929",
+    "Website": "yelp.com/biz/himitsu-teriyaki-seattle",
+    "Offer": "takeout"
   },
   {
     "Name": "The Maple",
@@ -2096,11 +3824,35 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Mojito",
+    "Address": "7545 Lake City Way N.E., Seattle",
+    "Neighborhood": "Maple Leaf",
+    "Phone": "206-525-3162",
+    "Website": "mojitoseattle.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "The Shambles",
     "Address": "7777 15th Ave. N.E., Seattle",
     "Neighborhood": "Maple Leaf",
     "Phone": "206-659-0074",
     "Website": "delimeatsbar.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Yes Siam Thai Cafe and Bar",
+    "Address": "8014 15th Ave. N.E., Seattle",
+    "Neighborhood": "Maple Leaf",
+    "Phone": "206-403-1994",
+    "Website": "yessiamthaicafe.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Santorini Pizza & Pasta",
+    "Address": "11001 35th Ave. N.E., Seattle",
+    "Neighborhood": "Meadowbrook",
+    "Phone": "206-440-8499",
+    "Website": "santorinipizza.com",
     "Offer": "takeout"
   },
   {
@@ -2120,11 +3872,27 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Time Out Greek & American Restuarant",
+    "Address": "5807 244th St. S.W., Mountlake Terrace",
+    "Neighborhood": "Mountlake Terrace",
+    "Phone": "425-672-5144",
+    "Website": "timeoutmlt.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Heyday Bar & Restaurant",
     "Address": "1372 31st Ave. S., Seattle",
     "Neighborhood": "Mt. Baker",
     "Phone": "206-829-9816",
     "Website": "heydayseattle.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "QED Coffee",
+    "Address": "1418 31st Ave. S., Seattle",
+    "Neighborhood": "Mt. Baker",
+    "Phone": "206-235-7678",
+    "Website": "qedcoffee.com",
     "Offer": "takeout"
   },
   {
@@ -2144,6 +3912,62 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Arnie's",
+    "Address": " 714 Second St., Mukilteo",
+    "Neighborhood": "Mukilteo",
+    "Phone": "425-355-2181",
+    "Website": "arniesrestaurant.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "John's Grille",
+    "Address": "649 Fifth St. Ste. 10, Mukilteo",
+    "Neighborhood": "Mukilteo",
+    "Phone": "425-347-1068",
+    "Website": "johnsgrillmukilteo.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Red Cork Bistro",
+    "Address": "11700 Mukilteo Speedway #405, Mukilteo",
+    "Neighborhood": "Mukilteo",
+    "Phone": "425-374-8472",
+    "Website": "redcorkbistro.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Red Cup Cafe",
+    "Address": "619 Fourth St., Mukilteo",
+    "Neighborhood": "Mukilteo",
+    "Phone": "425-348-4825",
+    "Website": "facebook.com/RedCupCafe",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Sabor a Mexico",
+    "Address": "8410 Mukilteo Speedway # A, Mukilteo",
+    "Neighborhood": "Mukilteo",
+    "Phone": "425-710-9094",
+    "Website": "saboramexico.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Sully's Pizza & Calzones",
+    "Address": "403 Lincoln Ave., Mukilteo",
+    "Neighborhood": "Mukilteo",
+    "Phone": "425-322-4666",
+    "Website": "sullyspizza.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Thai Waterside Cuisine",
+    "Address": "415 Lincoln Ave., Mukilteo",
+    "Neighborhood": "Mukilteo",
+    "Phone": "425-355-7393",
+    "Website": "thaiwaterside.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Bai Tong ",
     "Address": "Issaquah, Redmond, Tukwila",
     "Neighborhood": "Multiple locations",
@@ -2152,16 +3976,64 @@
     "Offer": "both"
   },
   {
+    "Name": "Bakery Nouveau",
+    "Address": "Burien, Capitol Hill, West Seattle",
+    "Neighborhood": "Multiple locations",
+    "Phone": "206-717-2100 ",
+    "Website": "bakerynouveau.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "BJ's",
+    "Address": "Puyallup, Redmond, Tacoma, Tukwila, ",
+    "Neighborhood": "Multiple locations",
+    "Phone": "",
+    "Website": "bjsrestaurants.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Blue Water Taco Grill",
+    "Address": "Downtown, First Hill, Queen Anne, Sodo",
+    "Neighborhood": "Multiple locations",
+    "Phone": "",
+    "Website": "bluewatertacogrill.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Bok a Bok Fried Chicken",
-    "Address": "Burien, Capitol Hill, U Distrcit, White Center",
+    "Address": "Burien, Capitol Hill, U District, White Center",
     "Neighborhood": "Multiple locations",
     "Phone": "",
     "Website": "bokabokchicken.com",
     "Offer": "both"
   },
   {
+    "Name": "Burgermaster",
+    "Address": "Aurora, Bellevue, Mill Creek, U District",
+    "Neighborhood": "Multiple locations",
+    "Phone": "206-525-7100",
+    "Website": "burgermaster.biz",
+    "Offer": "delivery"
+  },
+  {
+    "Name": "Cactus ",
+    "Address": "Kirkland, Madison Park, South Lake Union",
+    "Neighborhood": "Multiple locations",
+    "Phone": "",
+    "Website": "cactusrestaurants.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "The Cheesecake Factory",
+    "Address": "Bellevue, Downtown, Lynnwood, Tacoma, Tukwila",
+    "Neighborhood": "Multiple locations",
+    "Phone": "",
+    "Website": "thecheesecakefactory.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Cherry Street Coffee House",
-    "Address": "Belltown, Capitol Hill, FIrst Hill, Pioneer Square",
+    "Address": "Belltown, Capitol Hill, First Hill, Pioneer Square",
     "Neighborhood": "Multiple locations",
     "Phone": "",
     "Website": "cherryst.com",
@@ -2176,11 +4048,27 @@
     "Offer": "both"
   },
   {
-    "Name": "Ezells",
+    "Name": "Dough Zone Dumpling House",
+    "Address": "Bellevue (Overlake), Issaquah, Redmond, Seattle (Chinatown International Distrcit and Downtown)",
+    "Neighborhood": "Multiple locations",
+    "Phone": "425-702-8888",
+    "Website": "doughzonedumplinghouse.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Ezell's",
     "Address": "Bellevue, Central District, Federal Way, Kent, Lynnwood, Mill Creek, Renton, Rainier Valley, Wallingford, Tacoma, Woodinville  ",
     "Neighborhood": "Multiple locations",
     "Phone": "",
     "Website": "ezellschicken.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Famous Dave's",
+    "Address": "Multiple Locations",
+    "Neighborhood": "Everett, Tacoma, Tukwila",
+    "Phone": "",
+    "Website": "famousdaves.com",
     "Offer": "both"
   },
   {
@@ -2224,6 +4112,14 @@
     "Offer": "both"
   },
   {
+    "Name": "Ivar's Seafood Bars",
+    "Address": "Bellevue, Bothell, Burien, Edmonds, Everett, Federal Way, Issaquah, Kent, Kirkland, Marysville, Mukilteo, Puyallup, Renton, Tacoma, Tukwila",
+    "Neighborhood": "Multiple locations",
+    "Phone": "",
+    "Website": "ivars.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Jack's BBQ",
     "Address": "Bellevue, Columbia Tower, SoDo, South Lake Union",
     "Neighborhood": "Multiple locations",
@@ -2240,12 +4136,20 @@
     "Offer": "both"
   },
   {
+    "Name": "Kizuki Ramen & Izakaya",
+    "Address": "320 E. Pine St., Seattle",
+    "Neighborhood": "Multiple locations",
+    "Phone": "Bellevue, Capitol Hill, Northgate, Tacoma, West Seattle",
+    "Website": "kizuki.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Locust Cider & Brewing",
-    "Address": "Alki Beach, Ballard, Post Alley, Tacoma",
+    "Address": "Ballard, Downtown, Tacoma, West Seattle",
     "Neighborhood": "Multiple locations",
     "Phone": "",
     "Website": "locustcider.com",
-    "Offer": "takeout"
+    "Offer": "both"
   },
   {
     "Name": "Mighty-O Donuts",
@@ -2256,8 +4160,8 @@
     "Offer": "both"
   },
   {
-    "Name": "Mio Posto",
-    "Address": "Admiral, Mercer Island, Mount Baker, Ravenna",
+    "Name": "Mioposto",
+    "Address": "Admiral, Mercer Island, Mt. Baker, Ravenna",
     "Neighborhood": "Multiple locations",
     "Phone": "",
     "Website": "miopostopizza.com",
@@ -2285,6 +4189,14 @@
     "Neighborhood": "Multiple locations",
     "Phone": "",
     "Website": "pattyseggnestrestaurant.net",
+    "Offer": "both"
+  },
+  {
+    "Name": "Red Robin",
+    "Address": "Auburn, Bonney Lake, Covington, Des Moines, Federal Way, Kent, Lakewood, Puyallup, Renton, Tacoma, Tukwila",
+    "Neighborhood": "Multiple locations",
+    "Phone": "",
+    "Website": "redrobin.com",
     "Offer": "both"
   },
   {
@@ -2320,6 +4232,14 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Taco Time",
+    "Address": "",
+    "Neighborhood": "Multiple locations",
+    "Phone": "",
+    "Website": "tacotimenw.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Trapper's Sushi",
     "Address": "Bonney Lake, Covington, Federal Way, Kent, Lacey, North Bend, Parkland, Puyallup, Silverdale, Tukwila",
     "Neighborhood": "Multiple locations",
@@ -2334,6 +4254,30 @@
     "Phone": "",
     "Website": "tuttabella.com",
     "Offer": "both"
+  },
+  {
+    "Name": "Zoka Coffee",
+    "Address": "Green Lake, Kirkland, South Lake Union, U District",
+    "Neighborhood": "Multiple locations",
+    "Phone": "206-545-4277; 425-284-1830; 206-624-1927; 206-527-0990",
+    "Website": "zokacoffee.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Normandy Park Ale House",
+    "Address": "19803 First Ave. S. Ste. 104, Normandy Park",
+    "Neighborhood": "Normandy Park",
+    "Phone": "206-592-6986",
+    "Website": "normandyparkalehouse.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Il Paesano",
+    "Address": "113 Bendigo Blvd. N. Unit A, North Bend",
+    "Neighborhood": "North Bend",
+    "Phone": "425-831-0099",
+    "Website": "ilpaesanoristorante.com",
+    "Offer": "takeout"
   },
   {
     "Name": "Little Si Restaurant & Lounge",
@@ -2360,11 +4304,27 @@
     "Offer": "both"
   },
   {
+    "Name": "Saffron Grill",
+    "Address": "2132 N. Northgate Way, Seattle",
+    "Neighborhood": "Northgate",
+    "Phone": "206-417-0707",
+    "Website": "saffrongrillseattle.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Bang Bang Kitchen",
     "Address": "4219 S. Othello St., Seattle",
     "Neighborhood": "Othello",
     "Phone": "206-420-3146",
     "Website": "bangbangseattle.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "A la Mode Pies",
+    "Address": "5821 Phinney Ave. N., Seattle",
+    "Neighborhood": "Phinney Ridge",
+    "Phone": "206-383-3796",
+    "Website": "alamodeseattle.com",
     "Offer": "both"
   },
   {
@@ -2376,19 +4336,19 @@
     "Offer": "both"
   },
   {
+    "Name": "Celine Patisserie",
+    "Address": "6801 Greenwood Ave. N. #113A, Seattle",
+    "Neighborhood": "Phinney Ridge",
+    "Phone": "206-258-6572",
+    "Website": "celinepatisserie.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Chef Liao",
     "Address": "6012 Phinney Ave. N., Seattle",
     "Neighborhood": "Phinney Ridge",
     "Phone": "206-789-6441",
     "Website": "chefliaoseattle.com",
-    "Offer": "both"
-  },
-  {
-    "Name": "The Olive and Grape",
-    "Address": "8516 Greenwood Ave. N., Seattle",
-    "Neighborhood": "Phinney Ridge",
-    "Phone": "206-724-0272",
-    "Website": "theoliveandgrape.com",
     "Offer": "both"
   },
   {
@@ -2413,7 +4373,7 @@
     "Neighborhood": "Phinney Ridge",
     "Phone": "206-706-7807",
     "Website": "thaiku.com",
-    "Offer": "both"
+    "Offer": "takeout"
   },
   {
     "Name": "Windy City Pie",
@@ -2421,6 +4381,86 @@
     "Neighborhood": "Phinney Ridge",
     "Phone": "206-486-4743",
     "Website": "windycitypie.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Yannis",
+    "Address": "7419 Greenwood Ave. N., Seattle",
+    "Neighborhood": "Phinney Ridge",
+    "Phone": "206-783-6945",
+    "Website": "yannis-greek-restaurant.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Bottega Italiana",
+    "Address": "1425 First Ave., Seattle",
+    "Neighborhood": "Pike Place ",
+    "Phone": "206-343-0200",
+    "Website": "bottegaitaliana.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Cinnamon Works",
+    "Address": "1536 Pike Pl., Seattle",
+    "Neighborhood": "Pike Place ",
+    "Phone": "206-583-0085",
+    "Website": "cinnamonworks.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "DeLaurenti Food and Wine",
+    "Address": "1435 First Ave., Seattle",
+    "Neighborhood": "Pike Place ",
+    "Phone": "206-622-0141",
+    "Website": "delaurenti.com",
+    "Offer": "delivery"
+  },
+  {
+    "Name": "Honest Biscuits",
+    "Address": "1901 Western Ave. Suite E, Seattle",
+    "Neighborhood": "Pike Place ",
+    "Phone": "206-682-7179",
+    "Website": "https://www.honestbiscuits.com/menu",
+    "Offer": "both"
+  },
+  {
+    "Name": "Indi Chocolate",
+    "Address": "1901 Western Ave. D, Seattle",
+    "Neighborhood": "Pike Place",
+    "Phone": "425-243-2089",
+    "Website": "indichocolate.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Island Girl Seafood",
+    "Address": "1901 Western Ave., Seattle",
+    "Neighborhood": "Pike Place ",
+    "Phone": "360-255-1524",
+    "Website": "islandgirlseafoodco.com",
+    "Offer": "delivery"
+  },
+  {
+    "Name": "Los Agaves",
+    "Address": "1514 Pike Place Market Ave. #7, Seattle",
+    "Neighborhood": "Pike Place ",
+    "Phone": "206-504-0202",
+    "Website": "losagaves.net",
+    "Offer": "both"
+  },
+  {
+    "Name": "Michou Deli",
+    "Address": "1904 Pike Pl, Seattle, WA 98101",
+    "Neighborhood": "Pike Place ",
+    "Phone": "206-448-4758",
+    "Website": "michoudeli.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Mr. D's Greek Delicacies",
+    "Address": "1518 Pike Pl., Seattle",
+    "Neighborhood": "Pike Place ",
+    "Phone": "206-622-4881 ",
+    "Website": "mrdsgreekdelicacies.com",
     "Offer": "both"
   },
   {
@@ -2432,6 +4472,14 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Pike's Pit BBQ",
+    "Address": "1505 Pike Place Market, Seattle",
+    "Neighborhood": "Pike Place ",
+    "Phone": "206-538-0779",
+    "Website": "pikespit.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Piroshky Piroshky",
     "Address": "1908 Pike Pl., Seattle",
     "Neighborhood": "Pike Place",
@@ -2440,11 +4488,107 @@
     "Offer": "both"
   },
   {
+    "Name": "Pizza and Pasta Bar",
+    "Address": "1530 Post Alley #7, Seattle",
+    "Neighborhood": "Pike Place ",
+    "Phone": "206-621-7545",
+    "Website": "pizza-and-pasta-bar.business.site",
+    "Offer": "delivery"
+  },
+  {
+    "Name": "Seattle Bagel Bakery",
+    "Address": "93 Pike St. #4, Seattle",
+    "Neighborhood": "Pike Place ",
+    "Phone": "206-624-8099",
+    "Website": "seattlebagel.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Taproom at Pike Place",
+    "Address": "1525 First Ave. #16, Seattle",
+    "Neighborhood": "Pike Place ",
+    "Phone": "206-829-4800 ",
+    "Website": "taproomatpikeplace.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Three Girls Bakery",
+    "Address": "1514 Pike Pl., Seattle",
+    "Neighborhood": "Pike Place ",
+    "Phone": "206-622-1045 ",
+    "Website": "threegirlsbakery.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Uli's Famous Sausage",
+    "Address": "1511 Pike Pl, Seattle",
+    "Neighborhood": "Pike Place ",
+    "Phone": "206-838-1712",
+    "Website": "ulisfamoussausage.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Casa Del Mariachi",
+    "Address": "12327 Roosevelt Way N.E., Seattle",
+    "Neighborhood": "Pinehurst",
+    "Phone": "206-632-5307",
+    "Website": "casa-del-mariachi.negocio.site",
+    "Offer": "both"
+  },
+  {
+    "Name": "Chaiyo Thai Cuisine",
+    "Address": "11749 15th Ave. N.E., Seattle",
+    "Neighborhood": "Pinehurst",
+    "Phone": "206-361-8888",
+    "Website": "chaiyonorthgate.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "El Parche Colombiano Restaurant",
+    "Address": "11740 15th Ave. N.E., Seattle",
+    "Neighborhood": "Pinehurst",
+    "Phone": "206-458-2465",
+    "Website": "elparchecolombiano.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Jebena Cafe",
+    "Address": "1510 N.E. 117th St., Seattle",
+    "Neighborhood": "Pinehurst",
+    "Phone": "206-365-0757",
+    "Website": "jebenacafe.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "The Unique Cafe and Wine",
+    "Address": "12319 Roosevelt Way N.E., Seattle",
+    "Neighborhood": "Pinehurst",
+    "Phone": "206-362-6666",
+    "Website": "theuniquecafeandwine.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Zylberschtein’s Delicatessen and Bakery",
     "Address": "11752 15th Ave. N.E., Seattle ",
     "Neighborhood": "Pinehurst",
     "Phone": "206-403-122",
     "Website": "zylberschtein.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "D&E",
+    "Address": "314 Second Ave. S., Seattle",
+    "Neighborhood": "Pioneer Square",
+    "Phone": "206-445-7472",
+    "Website": "pioneersquarede.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "The Halal Guys",
+    "Address": "105 Yesler Way, Seattle",
+    "Neighborhood": "Pioneer Square",
+    "Phone": "206-467-1178",
+    "Website": "thehalalguys.com",
     "Offer": "both"
   },
   {
@@ -2464,14 +4608,6 @@
     "Offer": "both"
   },
   {
-    "Name": "Pioneer Square D&E",
-    "Address": "314 Second Ave. S., Seattle",
-    "Neighborhood": "Pioneer Square",
-    "Phone": "206-445-7472",
-    "Website": "pioneersquarede.com",
-    "Offer": "both"
-  },
-  {
     "Name": "Salumi",
     "Address": "404 Occidental Ave. S., Seattle",
     "Neighborhood": "Pioneer Square",
@@ -2480,12 +4616,28 @@
     "Offer": "delivery"
   },
   {
+    "Name": "Sluggers",
+    "Address": "538 First Ave. S., Seattle",
+    "Neighborhood": "Pioneer Square",
+    "Phone": "206-654-8070",
+    "Website": "facebook.com/sluggers.seattle",
+    "Offer": "takeout"
+  },
+  {
     "Name": "The Custom Plate",
     "Address": "562 First Ave. S. Ste. 100, Seattle",
     "Neighborhood": "Pioneer Square",
     "Phone": "206-478-4399",
     "Website": "thecustomplate.com",
     "Offer": "delivery"
+  },
+  {
+    "Name": "Little Lago",
+    "Address": "2919 Fuhrman Ave. E., Seattle",
+    "Neighborhood": "Portage Bay",
+    "Phone": "206-922-3324",
+    "Website": "littlelago.com",
+    "Offer": "both"
   },
   {
     "Name": "5 Hooks Fish Grill",
@@ -2536,6 +4688,14 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Bounty Kitchen ",
+    "Address": "7 Boston St., Seattle",
+    "Neighborhood": "Queen Anne",
+    "Phone": "206-695-2017",
+    "Website": "bountykitchenseattle.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Canlis",
     "Address": "2576 Aurora Ave. N., Seattle",
     "Neighborhood": "Queen Anne",
@@ -2584,12 +4744,12 @@
     "Offer": "takeout"
   },
   {
-    "Name": "Jude's",
-    "Address": "9252 57th Ave. S., Seattle",
+    "Name": "GoldinBlack",
+    "Address": "621 Queen Anne Ave. N., Seattle",
     "Neighborhood": "Queen Anne",
-    "Phone": "206-379-6629",
-    "Website": "judesoldtown.com",
-    "Offer": "takeout"
+    "Phone": "206-687-7756",
+    "Website": "goldinblack.blogspot.com",
+    "Offer": "both"
   },
   {
     "Name": "Koku Cafe and Market",
@@ -2608,6 +4768,14 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Lazy Susan",
+    "Address": "823 Fifth Ave. N., Seattle",
+    "Neighborhood": "Queen Anne",
+    "Phone": "206-588-2224",
+    "Website": "lazysusanseattle.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Other Coast Cafe",
     "Address": "12 Mercer St., Seattle",
     "Neighborhood": "Queen Anne",
@@ -2621,6 +4789,14 @@
     "Neighborhood": "Queen Anne",
     "Phone": "206-285-4656",
     "Website": "pungkangnoodle.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Sal y Limon",
+    "Address": "10 Mercer St., Seattle",
+    "Neighborhood": "Queen Anne",
+    "Phone": "206-283-7878",
+    "Website": "salylimonseattle.com",
     "Offer": "both"
   },
   {
@@ -2640,11 +4816,67 @@
     "Offer": "both"
   },
   {
+    "Name": "Buddha Bruddah",
+    "Address": "2201 Rainier Ave. S., Seattle",
+    "Neighborhood": "Rainier Valley",
+    "Phone": "206-556-4134",
+    "Website": "buddhabruddah.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Cafe Avole",
+    "Address": "6630 Rainier Ave. S., Seattle",
+    "Neighborhood": "Rainier Valley",
+    "Phone": "206-472-4096",
+    "Website": "facebook.com/cafeavole",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Drae's Lake Route Cafe",
+    "Address": "9261 57th Ave. S., Seattle",
+    "Neighborhood": "Rainier Valley",
+    "Phone": "206-722-9464",
+    "Website": "draeslakeroute.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Jude's",
+    "Address": "9252 57th Ave. S., Seattle",
+    "Neighborhood": "Rainier Valley",
+    "Phone": "206-379-6629",
+    "Website": "judesoldtown.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Kaffa Coffee and Wine Bar",
+    "Address": "8136 Rainier Ave. S., Seattle",
+    "Neighborhood": "Rainier Valley",
+    "Phone": "206-453-3558",
+    "Website": "facebook.com/kaffacoffeeseattle",
+    "Offer": "both"
+  },
+  {
+    "Name": "King Philly Cheesesteaks",
+    "Address": "7920 Rainier Ave. S., Seattle",
+    "Neighborhood": "Rainier Valley",
+    "Phone": "206-722-2434",
+    "Website": "facebook.com/kingphillycheesesteaks",
+    "Offer": "both"
+  },
+  {
     "Name": "Lil Red BBQ",
     "Address": "4225 Rainier Ave. S., Seattle",
     "Neighborhood": "Rainier Valley",
     "Phone": "206-760-2931",
     "Website": "lilredtakeout.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Los Tinos",
+    "Address": "7300 Rainier Ave S",
+    "Neighborhood": "Rainier Valley",
+    "Phone": "206-760-1388",
+    "Website": "facebook.com/LosTinosMexicanRestaurant",
     "Offer": "both"
   },
   {
@@ -2656,12 +4888,28 @@
     "Offer": "both"
   },
   {
-    "Name": "Calluna",
+    "Name": "Barking Dog Alehouse",
     "Address": "5628 University Way, Seattle",
     "Neighborhood": "Ravenna",
     "Phone": "206-420-1938",
     "Website": "callunaseattle.com",
     "Offer": "both"
+  },
+  {
+    "Name": "Bengal Tiger Cuisine of India",
+    "Address": "6509 Roosevelt Way N.E., Seattle",
+    "Neighborhood": "Ravenna",
+    "Phone": "206-985-0041",
+    "Website": "bengaltigerwa.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Crepe Cafe",
+    "Address": "2118 N.E. 65th St., Seattle",
+    "Neighborhood": "Ravenna",
+    "Phone": "206-527-7147",
+    "Website": "crepesandwine.com",
+    "Offer": "takeout"
   },
   {
     "Name": "Frank’s Oyster House & Champagne Parlor",
@@ -2680,11 +4928,51 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Ravenna Varsity Restaurant ",
+    "Address": "2300 N.E. 65th St., Seattle ",
+    "Neighborhood": "Ravenna ",
+    "Phone": "206-525-2701",
+    "Website": "ravennavarsity.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Ridge Pizza Northeast",
     "Address": "3338 N.E. 65th St., Seattle",
     "Neighborhood": "Ravenna",
     "Phone": "206-535-6167",
     "Website": "ridgepizzanortheast.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Sod House Bakery",
+    "Address": "2114 N.E. 65th St., Seattle",
+    "Neighborhood": "Ravenna",
+    "Phone": "206-522-3000",
+    "Website": "sodhousebakery.square.site",
+    "Offer": "both"
+  },
+  {
+    "Name": "Zouave",
+    "Address": "2615 N.E. 65th St., Seattle",
+    "Neighborhood": "Ravenna",
+    "Phone": "206-525-7747",
+    "Website": "zouaverestaurant.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Agave Cocina & Cantina",
+    "Address": "17158 Redmond Way, Redmond",
+    "Neighborhood": "Redmond",
+    "Phone": "425-881-8252",
+    "Website": "agaverest.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Bangkok Basil",
+    "Address": "7297 West Lake Sammamish Pkwy. N.E., Redmond",
+    "Neighborhood": "Redmond",
+    "Phone": "425-702-9761",
+    "Website": "bangkok-basil.com",
     "Offer": "both"
   },
   {
@@ -2696,12 +4984,52 @@
     "Offer": "takeout"
   },
   {
+    "Name": "El Toreador",
+    "Address": "7845 N.E. Leary Way, Redmond",
+    "Neighborhood": "Redmond",
+    "Phone": "425-883-7570",
+    "Website": "eltoreador.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Inchin’s Bamboo Garden ",
+    "Address": "16564 Cleveland St. Ste. R, Redmond",
+    "Neighborhood": "Redmond",
+    "Phone": "425-284-0670",
+    "Website": "bamboo-gardens.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Just Poké",
+    "Address": "7345 164th Ave. N.E. Ste. I, Redmond",
+    "Neighborhood": "Redmond",
+    "Phone": "425-242-0889",
+    "Website": "justpoke.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Kanishka Cuisine of India",
     "Address": "16651 Redmond Way Ste. 180, Redmond",
     "Neighborhood": "Redmond",
     "Phone": "425-869-9182",
     "Website": "kanishkacuisineofindia.com",
     "Offer": "both"
+  },
+  {
+    "Name": "Lunchbox Laboratory ",
+    "Address": "7325 166th Ave F142, Redmond, WA 98052",
+    "Neighborhood": "Redmond",
+    "Phone": "425-307-1634",
+    "Website": "lunchboxlab.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Matts' Rotisserie & Oyster Lounge",
+    "Address": "7325 166th Ave. N.E., Ste. F210, Redmond",
+    "Neighborhood": "Redmond ",
+    "Phone": "425-376-0909",
+    "Website": "mattsrotisserie.com ",
+    "Offer": "takeout"
   },
   {
     "Name": "Ooba Tooba",
@@ -2728,6 +5056,14 @@
     "Offer": "both"
   },
   {
+    "Name": "Sages Restaurant",
+    "Address": "15916 N.E. 83rd St., Redmond",
+    "Neighborhood": "Redmond",
+    "Phone": "425-881-5004",
+    "Website": "sagesrestaurant.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Spark Pizza Redmond",
     "Address": "8110 164th Ave. N.E., Redmond",
     "Neighborhood": "Redmond",
@@ -2736,11 +5072,59 @@
     "Offer": "both"
   },
   {
+    "Name": "Tipsy Cow Burger Bar",
+    "Address": "16325 Cleveland St., Redmond",
+    "Neighborhood": "Redmond",
+    "Phone": "425-896-8716",
+    "Website": "tipsycowburgerbar.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Tropea Ristorante Italiano",
+    "Address": "16156 N.E. 87th St., Redmond",
+    "Neighborhood": "Redmond",
+    "Phone": "425-867-1082",
+    "Website": "ristorantetropea.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "5 Hermanos",
+    "Address": "10707 S.E. Carr Rd., Renton",
+    "Neighborhood": "Renton",
+    "Phone": "425-227-9104",
+    "Website": "5hermanosrestaurant.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Burger Addict",
     "Address": "2435 Maple Valley Hwy., Renton",
     "Neighborhood": "Renton",
     "Phone": "425-970-3950",
     "Website": "burgeraddict.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Jay Berry's Cafe",
+    "Address": "16341 Renton Issaquah Road, Renton",
+    "Neighborhood": "Renton",
+    "Phone": "425-271-1817",
+    "Website": "jayberryscafe.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Jimmy Mac's Roadhouse ",
+    "Address": "225 S.W. 7th St., Renton",
+    "Neighborhood": "Renton",
+    "Phone": "425-227-6881",
+    "Website": "jimmymacsroadhouse.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Just Poke ",
+    "Address": "727 N. 10th St. Ste. G, Renton ",
+    "Neighborhood": "Renton",
+    "Phone": "425-528-2397",
+    "Website": "justpoke.com",
     "Offer": "both"
   },
   {
@@ -2768,6 +5152,14 @@
     "Offer": "both"
   },
   {
+    "Name": "Sansonina",
+    "Address": "261 Rainier Ave. S., Renton",
+    "Neighborhood": "Renton",
+    "Phone": "425-496-8178",
+    "Website": "sansonina-ristorante-italiano.business.site",
+    "Offer": "both"
+  },
+  {
     "Name": "Teriyaki Box",
     "Address": "364 Renton Center Way S.W. Ste. 55, Renton",
     "Neighborhood": "Renton",
@@ -2776,12 +5168,36 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Trenchers Kitchen & Tap",
+    "Address": "822 N. 10th Pl., Renton ",
+    "Neighborhood": "Renton",
+    "Phone": "425-255-0714",
+    "Website": "trencherskitchenandtap.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Vince's Italian",
     "Address": "2815 Sunset Blvd., Renton ",
     "Neighborhood": "Renton",
     "Phone": "425-226-8180",
     "Website": "vincesrestaurants.com",
     "Offer": "both"
+  },
+  {
+    "Name": "Zhen Kee Restaurant",
+    "Address": "151 Sunset Blvd. N., Renton",
+    "Neighborhood": "Renton",
+    "Phone": "425-277-1886",
+    "Website": "zhenkee.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Amazing Thai",
+    "Address": "5210 Roosevelt Way N.E., Seattle",
+    "Neighborhood": "Roosevelt",
+    "Phone": "206-528-0102",
+    "Website": "amazing-thai-cuisine.business.site",
+    "Offer": "takeout"
   },
   {
     "Name": "Distant Worlds Coffeehouse",
@@ -2800,12 +5216,60 @@
     "Offer": "both"
   },
   {
+    "Name": "Portage Bay Cafe",
+    "Address": "900 N.E. 65th St., Seattle",
+    "Neighborhood": "Roosevelt",
+    "Phone": "206-529-3252",
+    "Website": "portagebaycafe.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Rain City Burgers",
+    "Address": "6501 Roosevelt Way N.E., Seattle",
+    "Neighborhood": "Roosevelt",
+    "Phone": "206 525 3542",
+    "Website": "raincityburgers.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Salvatore Ristorante Italiano",
+    "Address": "6100 Roosevelt Way, Seattle",
+    "Neighborhood": "Roosevelt",
+    "Phone": "206-527-9301",
+    "Website": "salvatoreristoranteitaliano.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Sunlight Cafe",
     "Address": "6404 Ninth Ave. N.E. Ste. 100, Seattle",
     "Neighborhood": "Roosevelt",
     "Phone": "206-522-9060",
     "Website": "sunlightcafevegetarian.com",
     "Offer": "takeout"
+  },
+  {
+    "Name": "Taste of India",
+    "Address": "5517 Roosevelt Way N.E., Seattle",
+    "Neighborhood": "Roosevelt",
+    "Phone": "206-528-1575",
+    "Website": "tasteofindiaseattle.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Urban Luxe Cafe",
+    "Address": "6105A Roosevelt Way N.E., Seattle",
+    "Neighborhood": "Roosevelt",
+    "Phone": "206-900-1056",
+    "Website": "urbanluxecafe.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Lanponi Thai Restaurant ",
+    "Address": "22639 N.E. Inglewood Hill Rd., Sammamish",
+    "Neighborhood": "Sammamish",
+    "Phone": "425-836-3138",
+    "Website": "lanponi.blogspot.com",
+    "Offer": "both"
   },
   {
     "Name": "Tanoor",
@@ -2824,6 +5288,22 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Hill's ",
+    "Address": "1843 N.W. 195th St., Shoreline",
+    "Neighborhood": "Shoreline ",
+    "Phone": "206-542-6353",
+    "Website": "hillsshoreline.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Streetzeria",
+    "Address": "1857 N.W. 195th St., Shoreline",
+    "Neighborhood": "Shoreline ",
+    "Phone": "206-755-5433",
+    "Website": "streetzeria.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "The Grill King Korean BBQ",
     "Address": "15740 Aurora Ave. N., Shoreline",
     "Neighborhood": "Shoreline",
@@ -2832,11 +5312,27 @@
     "Offer": "both"
   },
   {
+    "Name": "Wake N Bacon BBQ",
+    "Address": "1437 N.W. Richmond Beach Rd. Unit C, Shoreline",
+    "Neighborhood": "Shoreline",
+    "Phone": "206-542-8881",
+    "Website": "wakenbaconbbq.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Salish Lodge & Spa",
     "Address": "6501 Railroad Ave., Snoqualmie",
     "Neighborhood": "Snoqualmie",
     "Phone": "425-898-4021",
     "Website": "salishlodge.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Shay's Restaurant",
+    "Address": "15744 Aurora Ave. N., Shoreline",
+    "Neighborhood": "Shoreline",
+    "Phone": "206-363-8877",
+    "Website": "facebook.com/Shays-Restaurant-and-Lounge-100863783291134",
     "Offer": "takeout"
   },
   {
@@ -2856,11 +5352,91 @@
     "Offer": "both"
   },
   {
+    "Name": "Groove City Grind",
+    "Address": "3100 Airport Way S., Seattle",
+    "Neighborhood": "SoDo",
+    "Phone": "206-735-7254",
+    "Website": "facebook.com/groovecitygrind",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Kerloo Cellars",
+    "Address": "3911 First Ave. S., Seattle",
+    "Neighborhood": "SoDo",
+    "Phone": "206-349-0641",
+    "Website": "kerloocellars.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "On Safari Foods",
+    "Address": "3317 Third Ave. S., Seattle",
+    "Neighborhood": "SoDo",
+    "Phone": "206-932-9497",
+    "Website": "onsafarifoods.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Paseo ",
     "Address": "1760 First Ave. S., Seattle",
     "Neighborhood": "SoDo",
     "Phone": "206-420-7781",
     "Website": "paseorestaurants.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Slice Box Pizza",
+    "Address": "1727 First Ave S., Seattle",
+    "Neighborhood": "SoDo",
+    "Phone": "206-381-3333",
+    "Website": "sliceboxpizza.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Tamale My Life",
+    "Address": "4634 E. Marginal Way S. Ste. E-120, Seattle",
+    "Neighborhood": "SoDo",
+    "Phone": "206-552-9487",
+    "Website": "tamalemylife.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Ba Bar ",
+    "Address": "500 Terry Ave. N., Seattle",
+    "Neighborhood": "South Lake Union",
+    "Phone": "206-623-2711",
+    "Website": "babarseattle.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "The Berliner Doner Kebab",
+    "Address": "428 Westlake Ave. N. Ste., Seattle",
+    "Neighborhood": "South Lake Union",
+    "Phone": "206-354-3944",
+    "Website": "berlinerseattle.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "The Butcher's Table",
+    "Address": "2121 Westlake Ave., Seattle",
+    "Neighborhood": "South Lake Union",
+    "Phone": "206-209-5990",
+    "Website": "thebutcherstable.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "The Collective",
+    "Address": "400 Dexter Ave. N., Seattle",
+    "Neighborhood": "South Lake Union",
+    "Phone": "206-247-7191",
+    "Website": "collectiveseattle.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Hurry Curry of Tokyo",
+    "Address": "825 Harrison St., Seattle ",
+    "Neighborhood": "South Lake Union",
+    "Phone": "206-681-9443",
+    "Website": "hurrycurryoftokyo-Seattle.com",
     "Offer": "both"
   },
   {
@@ -2872,11 +5448,43 @@
     "Offer": "both"
   },
   {
+    "Name": "Lunchbox Laboratory ",
+    "Address": "1253 Thomas St., Seattle",
+    "Neighborhood": "South Lake Union",
+    "Phone": "206-621-1090",
+    "Website": "lunchboxlab.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Portage Bay Cafe",
     "Address": "391 Terry Ave. N., Seattle",
     "Neighborhood": "South Lake Union",
     "Phone": "206-462-6400",
     "Website": "portagebaycafe.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Specialty’s Cafe and Bakery",
+    "Address": "520 Terry Ave. N., Seattle",
+    "Neighborhood": "South Lake Union",
+    "Phone": "877-502-2837",
+    "Website": "specialtys.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Stone Korean Restaurant",
+    "Address": "900 Dexter Ave. N., Seattle",
+    "Neighborhood": "South Lake Union",
+    "Phone": "206-717-2864",
+    "Website": "stonekorean.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Thai Thani",
+    "Address": "201 Boren Ave N, Seattle",
+    "Neighborhood": "South Lake Union",
+    "Phone": "206-624-1485",
+    "Website": "thaithanikitchen.com",
     "Offer": "both"
   },
   {
@@ -2896,6 +5504,54 @@
     "Offer": "delivery"
   },
   {
+    "Name": "MoMo's Kebab",
+    "Address": "8520 14th Ave. S., Seattle",
+    "Neighborhood": "South Park",
+    "Phone": "206-665-4460",
+    "Website": "momoskebabseattle.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "South Town Pie",
+    "Address": "8611 14th Ave. S., Seattle",
+    "Neighborhood": "South Park",
+    "Phone": "206-535-7166",
+    "Website": "southtownpie.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Uncle Eddie's ",
+    "Address": "8601 14th Ave. S., Seattle ",
+    "Neighborhood": "South Park",
+    "Phone": "206-686-3254",
+    "Website": "eddiesp.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "El Borracho",
+    "Address": "2717 Sixth Ave., Tacoma",
+    "Neighborhood": "Tacoma",
+    "Phone": "253-314-5286",
+    "Website": "elborracho.co",
+    "Offer": "both"
+  },
+  {
+    "Name": "Brewers Row",
+    "Address": "3205 N. 26th St., Tacoma",
+    "Neighborhood": "Tacoma",
+    "Phone": "253-327-1757 ",
+    "Website": "brewersrowtacoma.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Cooks Tavern",
+    "Address": "3201 N. 26th St., Tacoma",
+    "Neighborhood": "Tacoma",
+    "Phone": "235-327-1777",
+    "Website": "cookstavern.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Royal Thai Bistro",
     "Address": "2045 Mildred St. W., Tacoma",
     "Neighborhood": "Tacoma",
@@ -2909,6 +5565,30 @@
     "Neighborhood": "Tukwila",
     "Phone": "206-673-2955",
     "Website": "cornerbakerycafe.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Din Tai Fung",
+    "Address": "181 Southcenter Mall,  Tukwila",
+    "Neighborhood": "Tukwila",
+    "Phone": "206-257-2888",
+    "Website": "dintaifungusa.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Gourmet Meals To Go",
+    "Address": "360 Corporate Dr. N., Tukwila",
+    "Neighborhood": "Tukwila",
+    "Phone": "206-258-8390",
+    "Website": "gourmetmealstogocatering.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Joey",
+    "Address": "758 Southcenter Mall",
+    "Neighborhood": "Tukwila",
+    "Phone": "206-835-6397",
+    "Website": "joeyrestaurants.com",
     "Offer": "both"
   },
   {
@@ -2952,6 +5632,38 @@
     "Offer": "both"
   },
   {
+    "Name": "Aladdin Falafel Corner",
+    "Address": "4541 University Way N.E., Seattle",
+    "Neighborhood": "U District",
+    "Phone": "206-548-9539",
+    "Website": "yelp.com/biz/aladdin-falafel-corner-seattle-2",
+    "Offer": "both"
+  },
+  {
+    "Name": "Ba Bar",
+    "Address": "2685 N.E. 46th St., Seattle",
+    "Neighborhood": "U District",
+    "Phone": "206-328-1112",
+    "Website": "babarseattle.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Cedars of Lebanon",
+    "Address": "1319 N.E. 43rd St., Seattle",
+    "Neighborhood": "U District",
+    "Phone": "206-632-7708",
+    "Website": "facebook.com/CedarsSeattle",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Chili's South Indian Cuisine",
+    "Address": "4220 University Way N.E., Seattle",
+    "Neighborhood": "U District",
+    "Phone": "206-633-1458",
+    "Website": "chilissouthindianrestaurant.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Delfino's Chicago Style Pizza",
     "Address": "2631 N.E. University Village St., Seattle",
     "Neighborhood": "U District",
@@ -2973,6 +5685,21 @@
     "Neighborhood": "U District",
     "Phone": "206-257-4798",
     "Website": "fatducksdeli.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Joey",
+    "Address": "2603 N.E. 46th, Seattle",
+    "Neighborhood": "U District",
+    "Phone": "206-527-6188",
+    "Website": "joeyrestaurants.com"
+  },
+  {
+    "Name": "Just Poke U District",
+    "Address": "4339 University Way N.E., Seattle",
+    "Neighborhood": "U District",
+    "Phone": "206-566-6156",
+    "Website": "justpoke.com",
     "Offer": "both"
   },
   {
@@ -3012,7 +5739,8 @@
     "Address": "4138 University Way N.E., Seattle",
     "Neighborhood": "U District",
     "Phone": "206-547-1774",
-    "Website": "samurainoodle.com"
+    "Website": "samurainoodle.com",
+    "Offer": "both"
   },
   {
     "Name": "Thaiger Room",
@@ -3063,6 +5791,14 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Almanqal",
+    "Address": "1712 N. 45th St., Seattle",
+    "Neighborhood": "Wallingford",
+    "Phone": "206-659-4664",
+    "Website": "almanqalgrill.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Art of the Table",
     "Address": "3801 Stone Way N. Suite A, Seattle",
     "Neighborhood": "Wallingford",
@@ -3087,6 +5823,22 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Chutney’s Bistro",
+    "Address": "1815 N. 45th St., Seattle",
+    "Neighborhood": "Wallingford",
+    "Phone": "206-634-1000",
+    "Website": "chutneysbistro.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Congeez",
+    "Address": "1714 N. 44th St., Seattle",
+    "Neighborhood": "Wallingford",
+    "Phone": "206-556-6498",
+    "Website": "congeez.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Eltana",
     "Address": "3920 Stone Way N., Seattle",
     "Neighborhood": "Wallingford",
@@ -3100,6 +5852,22 @@
     "Neighborhood": "Wallingford",
     "Phone": "206-547-1348",
     "Website": "harvestbeat.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Irwin's Bakery & Cafe",
+    "Address": "2123 N. 40th St., Seattle",
+    "Neighborhood": "Wallingford",
+    "Phone": "206-675-1484",
+    "Website": "irwinsbakeryseattle.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Jhanjay",
+    "Address": "1718 N. 45th St., Seattle",
+    "Neighborhood": "Wallingford",
+    "Phone": "206-632-1484",
+    "Website": "jhanjay.com",
     "Offer": "takeout"
   },
   {
@@ -3135,6 +5903,14 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Stone Way Cafe",
+    "Address": "3510 Stone Way N., Seattle",
+    "Neighborhood": "Wallingford",
+    "Phone": "206-420-4435",
+    "Website": "stonewaycafe.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Tilth",
     "Address": "1411 N. 45th St., Seattle",
     "Neighborhood": "Wallingford",
@@ -3143,12 +5919,28 @@
     "Offer": "both"
   },
   {
+    "Name": "TnT Taqueria",
+    "Address": "2114 N. 45th St., Seattle",
+    "Neighborhood": "Wallingford",
+    "Phone": "206-322-0124",
+    "Website": "chowfoods.com/tnt-taqueria",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Union Saloon",
     "Address": "3645 Wallingford Ave. N., Seattle",
     "Neighborhood": "Wallingford",
     "Phone": "206-547-2280",
     "Website": "unionsaloonseattle.com",
     "Offer": "takeout"
+  },
+  {
+    "Name": "Varsity Inn Restaurant ",
+    "Address": "1801 N. 34th St., Seattle",
+    "Neighborhood": "Wallingford",
+    "Phone": "206-547-2161",
+    "Website": "varsityinnrestaurant.com",
+    "Offer": "both"
   },
   {
     "Name": "The Whale Wins",
@@ -3167,6 +5959,14 @@
     "Offer": "both"
   },
   {
+    "Name": "Cafe Javasti",
+    "Address": "8617 35th Ave. N.E., Seattle",
+    "Neighborhood": "Wedgwood",
+    "Phone": "206-204-0255",
+    "Website": "javasti.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Grand Central Bakery",
     "Address": "7501 35th Ave. N.E., Seattle",
     "Neighborhood": "Wedgwood",
@@ -3175,7 +5975,15 @@
     "Offer": "takeout"
   },
   {
-    "Name": "Wedgwood Ale House",
+    "Name": "Grateful Bread Bakery & Cafe",
+    "Address": "7001 35th Ave. N.E., Seattle",
+    "Neighborhood": "Wedgwood",
+    "Phone": "206-525-3166",
+    "Website": "gratefulbreadbaking.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Wedgwood Alehouse",
     "Address": "8515 35th Ave. N.E., Seattle",
     "Neighborhood": "Wedgwood",
     "Phone": "206-527-2676",
@@ -3191,11 +5999,27 @@
     "Offer": "takeout"
   },
   {
+    "Name": "A la Mode Pies",
+    "Address": "4225 Alaska St., Seattle",
+    "Neighborhood": "West Seattle",
+    "Phone": "206-456-4343",
+    "Website": "alamodeseattle.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Alki Spud",
     "Address": "2666 Alki Ave. S.W., Seattle",
     "Neighborhood": "West Seattle",
     "Phone": "206-938-0606",
     "Website": "alkispud.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Blue Moon Burgers",
+    "Address": "2504 Alki Ave. S.W., Seattle",
+    "Neighborhood": "West Seattle",
+    "Phone": "206-457-4398",
+    "Website": "bluemoonburgers.com",
     "Offer": "both"
   },
   {
@@ -3212,6 +6036,14 @@
     "Neighborhood": "West Seattle",
     "Phone": "206-937-7676",
     "Website": "buddharuksa.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Circa",
+    "Address": "2605 California Ave. S.W., Seattle",
+    "Neighborhood": "West Seattle",
+    "Phone": "206-923-1102",
+    "Website": "circalove.com",
     "Offer": "takeout"
   },
   {
@@ -3239,6 +6071,38 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Elliott Bay Brewhouse & Pub",
+    "Address": "4720 California Ave. S.W., Seattle",
+    "Neighborhood": "West Seattle",
+    "Phone": "206-932-8695",
+    "Website": "elliottbaybrewing.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Endolyne Joe’s",
+    "Address": "9261 45th Ave. S.W., Seattle",
+    "Neighborhood": "West Seattle",
+    "Phone": "206-937-5637",
+    "Website": "chowfoods.com/endolyne-joes",
+    "Offer": "both"
+  },
+  {
+    "Name": "Freshy's",
+    "Address": "2735 California Ave. S.W., Seattle",
+    "Neighborhood": "West Seattle",
+    "Phone": "206-937-4316",
+    "Website": "westseattlefreshys.square.site",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Harry’s Beach House",
+    "Address": "2676 Alki Ave. S., Seattle",
+    "Neighborhood": "West Seattle",
+    "Phone": "206-513-6297",
+    "Website": "harrysbeachhouse.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Haymaker",
     "Address": "4706 California Ave. S.W., Seattle",
     "Neighborhood": "West Seattle",
@@ -3255,11 +6119,27 @@
     "Offer": "both"
   },
   {
+    "Name": "JaK's Grill ",
+    "Address": "4548 California Ave. S.W., Seattle",
+    "Neighborhood": "West Seattle",
+    "Phone": "206-937-7809",
+    "Website": "jaksgrill.com",
+    "Offer": "both"
+  },
+  {
     "Name": "La Rustica",
     "Address": "4100 Beach Dr. S.W., Seattle",
     "Neighborhood": "West Seattle",
     "Phone": "206-932-3020",
-    "Website": "larustica.webflow.io",
+    "Website": "larusticawestseattle.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Lady Jaye",
+    "Address": "4523 California Ave. S.W., Seattle",
+    "Neighborhood": "West Seattle",
+    "Phone": "206-457-4029",
+    "Website": "ladyjaye.com",
     "Offer": "takeout"
   },
   {
@@ -3279,11 +6159,59 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Mission Cantina",
+    "Address": "2325 California Ave. S.W., Seattle",
+    "Neighborhood": "West Seattle",
+    "Phone": "206-937-8220",
+    "Website": "missioncantinaseattle.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Peel and Press",
+    "Address": "6503 California Ave, S,W, #1899, Seattle",
+    "Neighborhood": "West Seattle",
+    "Phone": "206-937-1457",
+    "Website": "peelandpressws.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Phoenecia",
+    "Address": "4717 42nd Ave. S.W., Seattle",
+    "Neighborhood": "West Seattle",
+    "Phone": "206-492-5694",
+    "Website": "phoeneciawestseattle.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Puerto Vallarta ",
+    "Address": "4727 California Ave. S.W., Seattle",
+    "Neighborhood": "West Seattle ",
+    "Phone": "206-937-7335",
+    "Website": "puertovallartawestseattle.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Raccolto",
     "Address": "4147 California Ave. S.W., Seattle",
     "Neighborhood": "West Seattle",
     "Phone": "206-397-3775",
     "Website": "raccoltoseattle.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Seattle Fish Company",
+    "Address": "4435 California Ave. S.W., Seattle",
+    "Neighborhood": "West Seattle",
+    "Phone": "206-938-7576",
+    "Website": "seattlefishcompany.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Shug’s Soda Fountain & Ice Cream",
+    "Address": "3800 California Ave. S.W., Seattle",
+    "Neighborhood": "West Seattle",
+    "Phone": "206-602-6420",
+    "Website": "shugssodafountain.com",
     "Offer": "takeout"
   },
   {
@@ -3295,11 +6223,27 @@
     "Offer": "both"
   },
   {
+    "Name": "Supreme",
+    "Address": "4521 California Ave. S.W., Seattle",
+    "Neighborhood": "West Seattle",
+    "Phone": "",
+    "Website": "supreme.bar",
+    "Offer": "both"
+  },
+  {
+    "Name": "The Westy Sports & Spirits",
+    "Address": "7908 35th Ave. S.W. #3405, Seattle",
+    "Neighborhood": "West Seattle",
+    "Phone": "206-937-8977",
+    "Website": "thewestyseattle.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Wildwood Market",
     "Address": "9214 45th Ave. S.W., Seattle",
     "Neighborhood": "West Seattle",
     "Phone": "206-257-1196",
-    "Website": "wildwoodmarket.com",
+    "Website": "wildwoodwestseattle.com",
     "Offer": "both"
   },
   {
@@ -3327,12 +6271,44 @@
     "Offer": "takeout"
   },
   {
+    "Name": "Drunky Two Shoes BBQ",
+    "Address": "9655 16th Ave. S.W., Seattle",
+    "Neighborhood": "White Center",
+    "Phone": "206-829-9540",
+    "Website": "drunkytwoshoesbbq.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Mac’s Triangle Pub",
+    "Address": "9454 Delridge Way S.W., Seattle",
+    "Neighborhood": "White Center",
+    "Phone": "206-763-0714",
+    "Website": "macstrianglepub.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Tung Kee Mi Gia ",
+    "Address": "11205 16th Ave. S.W., Seattle",
+    "Neighborhood": "White Center",
+    "Phone": "206-661-4181",
+    "Website": "tungkeemigia.com",
+    "Offer": "takeout"
+  },
+  {
     "Name": "Sand Point Grill",
     "Address": "5712 N.E. Sand Point Way, Seattle",
     "Neighborhood": "Windmere",
     "Phone": "206-729-1303",
     "Website": "sandpointgrill.com",
     "Offer": "both"
+  },
+  {
+    "Name": "Bistro at Hollywood Schoolhouse",
+    "Address": "14810 N.E. 145th St., Woodinville",
+    "Neighborhood": "Woodinville",
+    "Phone": "425-489-2575",
+    "Website": "hollywoodschoolhousebistro.com",
+    "Offer": "takeout"
   },
   {
     "Name": "Heritage",
@@ -3343,11 +6319,43 @@
     "Offer": "both"
   },
   {
+    "Name": "Hollywood Tavern",
+    "Address": "14501 Woodinville Redmond Rd., Woodinville",
+    "Neighborhood": "Woodinville",
+    "Phone": "425-481-7703",
+    "Website": "thehollywoodtavern.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Hopheads Taproom & Kitchen",
+    "Address": "14141 Woodinville Duvall Rd., Woodinville",
+    "Neighborhood": "Woodinville",
+    "Phone": "425-892-8262",
+    "Website": "hopheads-taproom.com",
+    "Offer": "both"
+  },
+  {
     "Name": "Tinte Cellars",
     "Address": "14455 Woodinville-Redmond Rd., Woodinville",
     "Neighborhood": "Woodinville",
     "Phone": "425-659-9463",
     "Website": "tintecellars.com",
+    "Offer": "both"
+  },
+  {
+    "Name": "Tipsy Cow Burger Bar",
+    "Address": "14111 N.E. Woodinville Duvall Rd., Woodinville",
+    "Neighborhood": "Woodinville",
+    "Phone": "425-305-4300",
+    "Website": "tipsycowburgerbar.com",
+    "Offer": "takeout"
+  },
+  {
+    "Name": "Vivi Pizzeria",
+    "Address": "14505 148th Ave. N.E., Seattle",
+    "Neighborhood": "Woodinville",
+    "Phone": "425-408-0711",
+    "Website": "vivipizzeria.com",
     "Offer": "both"
   },
   {
@@ -3364,6 +6372,14 @@
     "Neighborhood": "",
     "Phone": "425-429-2314",
     "Website": "314pieseattle.com",
+    "Offer": "delivery"
+  },
+  {
+    "Name": "The Secret Ingredient",
+    "Address": "",
+    "Neighborhood": "",
+    "Phone": "425-200-5379",
+    "Website": "secretingredientmeals.com",
     "Offer": "delivery"
   },
   {
