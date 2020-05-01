@@ -31,13 +31,14 @@ neighborhood = Object.keys(neighborhood);
 
     %>
       
+    <div class="flexbox">
       <form class="search-form">
         <label class="instructions" for="search-bar">Search for a restaurant</label>
         <input id="search-bar">
       </form>
 
       <form class="filters">
-        <p class="instructions" for="neighborhood-filter">Filter by neighborhood</p>
+        <label class="instructions" for="neighborhood-filter">Filter by neighborhood</label>
         <select class="neighborhood-filter selector" id="neighborhood-filter">
           <option value="">CHOOSE A NEIGHBORHOOD</option>
           <% neighborhood.forEach(function(d) { %>
@@ -45,6 +46,7 @@ neighborhood = Object.keys(neighborhood);
           <% }) %>
           </select>
       </form>
+    </div>
 
       <ul  class="listings" id="listings">
      <% json.Ready.forEach(function(row) { %>
