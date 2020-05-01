@@ -24,6 +24,7 @@ var search = function() {
       tr[i].style.display = "none";
     }
   }
+
 }
 
 var rows = $(".listings p");
@@ -57,4 +58,11 @@ filterNav.addEventListener("change", function() {
 
 });
 
-search_bar.addEventListener("keyup", search);
+search_bar.addEventListener("keydown", function(e) {
+  if(e.keyCode == 13) {
+    e.preventDefault();
+    return false;
+  } else {
+    search();
+  }
+});
