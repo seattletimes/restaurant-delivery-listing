@@ -778,127 +778,6 @@
     "Website": "http://julies-garden.com/"
   },
   {
-    "Name": "India Gate",
-    "Address": "3080 148th Ave. S.E., Bellevue"
-  },
-  {
-    "Name": "Flat Iron Grill and the Black Duck Cask & Bottle",
-    "Address": "317 N.W. Gilman Blvd., Issaquah"
-  },
-  {
-    "Name": "QED Coffee"
-  },
-  {
-    "Name": "Ripe Catering"
-  },
-  {
-    "Name": "Dumpling Tzar",
-    "Address": "3516 Fremont Pl., Seattle",
-    "Neighborhood": "Fremont",
-    "Phone": "206-588-2570",
-    "Website": "dumplingtzar.com",
-    "Offer": "both"
-  },
-  {
-    "Name": "Dumpling Tzar",
-    "Address": "1630 12th Ave., Seattle",
-    "Neighborhood": "Capitol Hill",
-    "Phone": "206-466-6561",
-    "Website": "dumplingtzar.com",
-    "Offer": "both"
-  },
-  {
-    "Name": "Alison’s Coastal Cafe & Bakery ",
-    "Address": "5404 Leary Ave. N.W., Seattle",
-    "Neighborhood": "Ballard",
-    "Phone": "206-322-5028",
-    "Website": "facebook.com/alisonscoastalcafe"
-  },
-  {
-    "Name": "Thai Thani",
-    "Address": "",
-    "Neighborhood": "South Lake Union"
-  },
-  {
-    "Name": "Thai Thani",
-    "Address": "",
-    "Neighborhood": "Ballard"
-  },
-  {
-    "Name": "Yannis",
-    "Address": "7419 Greenwood Ave. N., Seattle"
-  },
-  {
-    "Name": "A la Mode Pies",
-    "Address": "",
-    "Neighborhood": "Phinney Ridge",
-    "Phone": "206-383-3796"
-  },
-  {
-    "Name": "A la Mode Pies",
-    "Address": "",
-    "Neighborhood": "West Seattle",
-    "Phone": "206-456-4343"
-  },
-  {
-    "Name": "Bananas Grill",
-    "Address": "4556 Martin Luther King Jr. Way S., Seattle",
-    "Neighborhood": "Columbia City",
-    "Phone": "206-420-4839",
-    "Website": "bananagrillseattle.com",
-    "Offer": "both"
-  },
-  {
-    "Name": "Four Spoons Cafe",
-    "Address": "",
-    "Neighborhood": "",
-    "Phone": "",
-    "Website": "",
-    "Offer": "takeout"
-  },
-  {
-    "Name": "Umi Sake House ",
-    "Address": "",
-    "Neighborhood": "",
-    "Phone": "",
-    "Website": "",
-    "Offer": "both"
-  },
-  {
-    "Name": "Agrodolce",
-    "Address": "709 N 35th St, Seattle, ",
-    "Neighborhood": "",
-    "Phone": "",
-    "Website": "",
-    "Offer": "both"
-  },
-  {
-    "Name": "Kaosamai Thai",
-    "Address": "404 N 36th St, Seattle",
-    "Neighborhood": "",
-    "Phone": "",
-    "Website": "",
-    "Offer": "both"
-  },
-  {
-    "Name": "MOD Pizza"
-  },
-  {
-    "Name": "Just Poké",
-    "Address": "734 N 34th St, Seattle",
-    "Neighborhood": "Fremont"
-  },
-  {
-    "Name": "Thai Isarn Soul Kitchen",
-    "Address": "170 Lake St., Kirkland",
-    "Neighborhood": "Kirkland"
-  },
-  {
-    "Name": "Thai Isarn Soul Kitchen",
-    "Address": "",
-    "Neighborhood": "Lynnwood"
-  },
-  {
     "Name": "Dickey's Barbecue Pit",
     "Address": "14150 N.E. 20th St. Ste. E., Bellevue",
     "Neighborhood": "Bellevue"
@@ -933,9 +812,6 @@
   },
   {
     "Name": "Zeek's"
-  },
-  {
-    "Name": "Spud Fish & Chips"
   },
   {
     "Name": "Smoke and Shine"
@@ -977,10 +853,6 @@
     "Address": "Double Check"
   },
   {
-    "Name": "Sweet Wheels Ice Cream",
-    "Address": "Double Check"
-  },
-  {
     "Name": "Panino Taglio"
   },
   {
@@ -996,15 +868,6 @@
     "Phone": "206-441-7119 ",
     "Website": "wazseattle.com",
     "Offer": "takeout"
-  },
-  {
-    "Name": "Cafe Lago",
-    "Address": "2305 24th Ave. E., Seattle",
-    "Neighborhood": "Montlake",
-    "Phone": "206-329-8005",
-    "Website": "cafelago.com",
-    "Offer": "both",
-    "undefined": "May 1"
   },
   {
     "Name": "Byen Bakeri",
@@ -1170,11 +1033,12 @@
     "Name": "Himalayan"
   },
   {
-    "Name": "Vivi Pizzeria",
-    "Address": "",
-    "Neighborhood": "Woodinville",
-    "Phone": "425-406-0711",
-    "Website": "https://www.vivipizzeria.com/",
-    "Offer": "both"
+    "Name": "Poquitos",
+    "Address": "1000 E. Pike St., Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-453-4216",
+    "Website": "vivapoquitos.com",
+    "Offer": "both",
+    "undefined": "May 4"
   }
 ]
