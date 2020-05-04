@@ -778,48 +778,6 @@
     "Website": "http://julies-garden.com/"
   },
   {
-    "Name": "Umi Sake House ",
-    "Address": "",
-    "Neighborhood": "",
-    "Phone": "",
-    "Website": "",
-    "Offer": "both"
-  },
-  {
-    "Name": "Agrodolce",
-    "Address": "709 N 35th St, Seattle, ",
-    "Neighborhood": "",
-    "Phone": "",
-    "Website": "",
-    "Offer": "both"
-  },
-  {
-    "Name": "Kaosamai Thai",
-    "Address": "404 N 36th St, Seattle",
-    "Neighborhood": "",
-    "Phone": "",
-    "Website": "",
-    "Offer": "both"
-  },
-  {
-    "Name": "MOD Pizza"
-  },
-  {
-    "Name": "Just Poké",
-    "Address": "734 N 34th St, Seattle",
-    "Neighborhood": "Fremont"
-  },
-  {
-    "Name": "Thai Isarn Soul Kitchen",
-    "Address": "170 Lake St., Kirkland",
-    "Neighborhood": "Kirkland"
-  },
-  {
-    "Name": "Thai Isarn Soul Kitchen",
-    "Address": "",
-    "Neighborhood": "Lynnwood"
-  },
-  {
     "Name": "Dickey's Barbecue Pit",
     "Address": "14150 N.E. 20th St. Ste. E., Bellevue",
     "Neighborhood": "Bellevue"
@@ -910,15 +868,6 @@
     "Phone": "206-441-7119 ",
     "Website": "wazseattle.com",
     "Offer": "takeout"
-  },
-  {
-    "Name": "Cafe Lago",
-    "Address": "2305 24th Ave. E., Seattle",
-    "Neighborhood": "Montlake",
-    "Phone": "206-329-8005",
-    "Website": "cafelago.com",
-    "Offer": "both",
-    "undefined": "May 1"
   },
   {
     "Name": "Byen Bakeri",
@@ -1082,5 +1031,21 @@
   },
   {
     "Name": "Himalayan"
+  },
+  {
+    "Name": "Poquitos",
+    "Address": "1000 E. Pike St., Seattle",
+    "Neighborhood": "Capitol Hill",
+    "Phone": "206-453-4216",
+    "Website": "vivapoquitos.com",
+    "Offer": "both",
+    "undefined": "May 4"
+  },
+  {
+    "Name": "Bagel Oasis",
+    "Address": "2112 N.E. 65th St., Seattle",
+    "Neighborhood": "Ravenna",
+    "Phone": "206-526-0525",
+    "Website": "seattlebageloasis.com"
   }
 ]
