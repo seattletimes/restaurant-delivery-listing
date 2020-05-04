@@ -5,3 +5,5 @@ auth.json
 .DS_Store
 npm-debug.log
 src/js/lib/*/**
+data/In_progress.sheet.json
+data/Ready.sheet.json
