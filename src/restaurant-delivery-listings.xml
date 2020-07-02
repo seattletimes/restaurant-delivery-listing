@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE doc SYSTEM "/SysConfig/Rules/ST.dtd">
 <?EM-dtdExt /SysConfig/Rules/ST.dtx?>
 <?EM-templateName /SysConfig/Times/Offpage/Templates/story.xml?>
@@ -16,10 +16,10 @@
 </p>
 </byline>
 
-<p>Here are some of the restaurants offering takeout and/or delivery options due to the recent ban on dining in. This list is not exhaustive and is subject to change. It will be updated as we learn of more options. If you’d like to submit a restaurant please fill out the form online at the bottom of st.news/foodtogo.</p>
-<p>Due to a high volume of submissions, we may not get to updating the list with your entry right away, but we are including as many as we can.</p>
-<p>Check websites/Facebook pages or call for more information on menu items, prices and more. Note that some establishments deliver only within a certain radius and some have modified their hours. Restaurants are listed alphabetically by neighborhood.
+<p>As more counties move into Phases 2 and 3, dine-in services at restaurants in and around the Seattle area are slowly starting back up. However, not all restaurants or patrons are ready. Here are some of the restaurants offering takeout (TO), delivery (DV) and/or dine-in (DI) options during the coronavirus pandemic. This list is not exhaustive and is subject to change. It will be updated as we learn of more options. If you’d like to submit a restaurant, please fill out the form online at the bottom of st.news/foodtogo.</p>
+<p>Due to a high volume of submissions, we may not get to updating the list with your entry right away, but we are including as many as we can.
 </p>
+<p>Check websites/Facebook pages or call for more information on menu items, prices and more. Note that some establishments deliver only within a certain radius and some have modified their hours. Restaurants are listed alphabetically by neighborhood.</p>
 
 <%
 var stories = {};
